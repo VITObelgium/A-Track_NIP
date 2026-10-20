@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+# outputs are created by running the scripts
+outputs/
+# large Copernicus TPROD tiles are downloaded with Download_TPROD.py
+Case1_top_down_demo/demo_input_data/TPROD/
+*.aux.xml

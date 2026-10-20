@@ -1,0 +1,93 @@
+EUNIS2021plus_Level;EUNIS2021plus_Code;rasterValue;EUNIS2021plus_Name;GET_code;GET_name
+1;C;110000;Inland surface waters;F;Freshwater
+2;C;110000;Inland surface waters;F;Freshwater
+3;C;110000;Inland surface waters;F;Freshwater
+1;J;120000;Constructed industrial and other artificial habitats;T7.4;Urban and industrial
+2;J;120000;Constructed industrial and other artificial habitats;T7.4;Urban and industrial
+3;J;120000;Constructed industrial and other artificial habitats;T7.4;Urban and industrial
+1;M;10000;Marine benthic habitats;M;Marine
+1;N;40000;Coastal habitats ;MT;Marine-Terrestrial
+2;N1;40100;Coastal dunes and sandy shores ;MT1;Shorelines biome
+3;N1D;40113;Atlantic and Baltic broad-leaved coastal dune forest;T2.2;Deciduous temperate forests
+3;N1H;40117;Atlantic and Baltic moist and wet dune slack;TF1.7;Boreal and temperate fens
+3;N1J;40118;Mediterranean and Black Sea moist and wet dune slack;MT2.1;Coastal shrublands and grasslands
+1;Q;50000;Wetlands;TF1;Palustrine wetlands
+2;Q1;50100;Raised and blanket bogs ;TF1.6;Boreal, temperate and montane peat bogs
+2;Q2;50200;Valley mires, poor fens and transition mires ;TF1;Palustrine wetlands
+3;Q21;50201;Oceanic valley mire;TF1.6;Boreal, temperate and montane peat bogs
+3;Q22;50202;Poor fen;TF1.7;Boreal and temperate fens
+3;Q24;50204;Intermediate fen and soft-water spring mire;TF1.7;Boreal and temperate fens
+2;Q4;50400;Base-rich fens and calcareous spring mires;TF1.7;Boreal and temperate fens
+3;Q41;50401;Alkaline, calcareous, carbonate-rich small-sedge spring fen;TF1.7;Boreal and temperate fens
+3;Q42;50402;Extremely rich moss-sedge fen;TF1.7;Boreal and temperate fens
+3;Q43;50403;Tall-sedge base-rich fen;TF1.7;Boreal and temperate fens
+3;Q44;50404;Calcareous quaking mire;TF1.7;Boreal and temperate fens
+2;Q5;50500;Helophyte beds;TF1.3;Permanent marshes
+3;Q51;50501;Tall-helophyte bed;TF1.3;Permanent marshes
+3;Q52;50502;Small-helophyte bed;TF1.3;Permanent marshes
+3;Q53;50503;Tall-sedge bed;TF1.3;Permanent marshes
+1;R;60000;Grasslands and lands dominated by forbs, mosses or lichens;T7.4;Derived semi-natural pastures and old fields
+2;R1;60100;Dry grasslands;T4.5;Temperate subhumid grasslands
+3;R1A;60110;Semi-dry perennial calcareous grassland (meadow steppe);T4.5;Temperate subhumid grasslands
+3;R1M;60121;Lowland to montane, dry to mesic grassland usually dominated by Nardus stricta;T4.5;Temperate subhumid grasslands
+3;R1P;60123;Oceanic to subcontinental inland sand grassland on dry acid and neutral soils;T4.5;Temperate subhumid grasslands
+2;R2;60200;Mesic grasslands ;T7.5;Derived semi-natural pastures and oldfields
+3;R21;60201;Mesic permanent pasture of lowlands and mountains;T7.5;Derived semi-natural pastures and oldfields
+3;R22;60202;Low and medium altitude hay meadow;T7.5;Derived semi-natural pastures and oldfields
+2;R3;60300;Seasonally wet and wet grasslands ;T7.5;Derived semi-natural pastures and oldfields
+3;R35;60305;Moist or wet mesotrophic to eutrophic hay meadow;T7.5;Derived semi-natural pastures and oldfields
+3;R36;60306;Moist or wet mesotrophic to eutrophic pasture;T7.5;Derived semi-natural pastures and oldfields
+3;R37;60307;Temperate and boreal moist or wet oligotrophic grassland;T4.5;Temperate subhumid grasslands
+2;R4;60400;Alpine and subalpine grasslands ;T6.4;Temperate alpine grasslands and shrublands
+2;R5;60500;Forest fringes and clearings and tall forb stands ;;
+3;R52;60502;Forest fringe of acidic nutrient-poor soils;T2.2;Deciduous temperate forests
+3;R54;60504;Pteridium aquilinum vegetation;T4.5;Temperate subhumid grasslands
+3;R55;60505;Lowland moist or wet tall-herb and fern fringe;TF1.4;Seasonal floodplain marshes
+3;R57;60507;Herbaceous forest clearing vegetation;T2.2;Deciduous temperate forests
+1;S;70000;Heathland, scrub and tundra;T3;Shrublands and shrubby woodlands biome
+2;S2;70200;Arctic, alpine and subalpine scrub;T6.4;Temperate alpine grasslands and shrublands
+3;S22;70202;Alpine and subalpine ericoid heath  ;T6.4;Temperate alpine grasslands and shrublands
+2;S3;70300;Temperate and mediterranean-montane scrub;T3.2;Seasonally dry temperate heaths and shrublands
+3;S32;70302;Temperate Rubus scrub  ;T3.2;Seasonally dry temperate heaths and shrublands
+3;S35;70305;Temperate and submediterranean thorn scrub  ;T3.2;Seasonally dry temperate heaths and shrublands
+3;S37;70307;Corylus avellana scrub;T3.2;Seasonally dry temperate heaths and shrublands
+2;S4;70400;Temperate shrub heathland;T3.3;Cool temperate heathlands
+3;S41;70401;Wet heath;T3.3;Cool temperate heathlands
+3;S42;70402;Dry heath;T3.3;Cool temperate heathlands
+2;S5;70500;Maquis arborescent matorral and thermo-Mediterranean scrub;T3.3;Cool temperate heathlands
+2;S6;70600;Garrigue;T3.3;Cool temperate heathlands
+2;S9;70900;Riverine and fen scrubs;TF1.2;Subtropical/temperate forested wetlands
+3;S92;70902;Salix fen scrub ;TF1.2;Subtropical/temperate forested wetlands
+1;T;80000;Forest and other wooded land;T4.4;Temperate woodlands
+2;T1;80100;Deciduous broadleaved forest;T2.2;Deciduous temperate forests
+3;T12;80102;Alnus glutinosa-Alnus incana forest on riparian and mineral soils;T2.2;Deciduous temperate forests
+3;T13;80103;Temperate hardwood riparian forest;T2.2;Deciduous temperate forests
+3;T16;80106;Broadleaved mire forest on acid peat;T2.2;Deciduous temperate forests
+3;T17;80107;Fagus forest on non-acid soils;T2.2;Deciduous temperate forests
+3;T19;80109;Temperate and submediterranean thermophilous deciduous forest;T2.2;Deciduous temperate forests
+3;T1B;80111;Acidophilous Quercus forest;T2.2;Deciduous temperate forests
+3;T1E;80114;Carpinus and Quercus mesic deciduous forest;T2.2;Deciduous temperate forests
+3;T1F;80115;Ravine forest;T2.2;Deciduous temperate forests
+2;T2;80200;Broadleaved evergreen forest;T2.2;Deciduous temperate forests
+3;T27;80207;Ilex aquifolium forest;T2.6;Temperate pyric sclerophyll forests and woodlands
+2;T3;80300;Coniferous forest;T2.2;Deciduous temperate forests
+3;T3M;80321;Coniferous plantation of non site-native trees;T7.3;Plantations
+1;U;90000;Inland habitats with no or little soil and mostly with sparse vegetation;T3.4;Young rocky pavements, lava flows and screes
+2;U2;90200;Screes;T3.4;Rocky pavements, screes and lava flows
+3;U23;90203;Temperate, lowland to montane siliceous scree;T3.4;Rocky pavements, screes and lava flows
+3;U27;90207;Temperate, lowland to montane base-rich scree;T3.4;Rocky pavements, screes and lava flows
+2;U3;90300;Inland cliffs, rock pavements and outcrops ;T3.4;Rocky pavements, screes and lava flows
+3;U37;90307;Temperate, lowland to montane base-rich inland cliff;T3.4;Rocky pavements, screes and lava flows
+3;U38;90308;Mediterranean base-rich inland cliff;T3.4;Rocky pavements, screes and lava flows
+1;V;100000;Vegetated man-made habitats;T7;Intensive land-use
+2;V1;100100;Arable land and market gardens;T7;Intensive land-use
+3;V11;100101;Intensive unmixed crops;T7.1;Annual croplands
+3;V13;100103;Arable land with unmixed crops grown by low-intensity agricultural methods;T7.1;Annual croplands
+3;V15;100105;Bare tilled, fallow or recently abandoned arable land;T7.1;Annual croplands
+3;V1x;100106;Cropland;T7;Intensive land-use
+2;V3;100300;Artificial grasslands and herb dominated habitats;T7.2;Sown pastures and fields
+3;V34;100304;Trampled xeric grasslands with annuals;T7.2;Sown pastures and fields
+3;V35;100305;Trampled mesophilous grasslands with annuals;T7.2;Sown pastures and fields
+3;V37;100307;Annual anthropogenic herbaceous vegetation;T7.1;Annual croplands
+3;V38;100308;Dry perennial anthropogenic herbaceous vegetation;T7.2;Sown pastures and fields
+3;V39;100309;Mesic perennial anthropogenic herbaceous vegetation;T7.2;Sown pastures and fields

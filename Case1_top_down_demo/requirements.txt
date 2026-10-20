@@ -1,0 +1,10 @@
+numpy
+pandas
+geopandas
+rasterio
+shapely
+scipy
+scikit-image
+networkx
+matplotlib
+hda

@@ -1,0 +1,1438 @@
+Level;Code ;Name ;Threat
+3;R11;Pannonian and Pontic sandy steppe;CR
+3;R1L;Madeiran oromediterranean siliceous dry grassland;CR
+3;R72;Hemiboreal and boreal wooded pasture and meadow;CR
+3;N35;Mediterranean and Black Sea soft sea cliff;DD
+3;T1G;Alnus cordata forest;DD
+3;T3J;Pinus and Larix mire forest;DD
+3;T3K;Picea mire forest;DD
+3;S32;Temperate Rubus scrub  ;DD
+3;U25;Boreal and arctic base-rich scree and block field;DD
+3;U35;Boreal and arctic base-rich inland cliff;DD
+3;U39;Boreal ultramafic inland cliff;DD
+3;U3A;Temperate ultramafic inland cliff;DD
+3;U3B;Mediterranean ultramafic inland cliff;DD
+3;U3D ;Wet inland cliff;DD
+3;N16;Mediterranean and Macaronesian coastal dune grassland (grey dune);EN
+3;N17;Black Sea coastal dune grassland (grey dune);EN
+3;N1C;Macaronesian coastal dune scrub;EN
+3;N1E;Black Sea broad-leaved coastal dune forest;EN
+3;R1J;Cyrno-Sardean oromediterranean siliceous dry grassland;EN
+3;R1P;Oceanic to subcontinental inland sand grassland on dry acid and neutral soils;EN
+3;R1Q;Inland sanddrift and dune with siliceous grassland;EN
+3;R1S;Heavy-metal grassland in Western and Central Europe ;EN
+3;R1T;Azorean open, dry, acid to neutral grassland;EN
+3;R35;Moist or wet mesotrophic to eutrophic hay meadow;EN
+3;R36;Moist or wet mesotrophic to eutrophic pasture;EN
+3;R37;Temperate and boreal moist or wet oligotrophic grassland;EN
+3;R63;Temperate inland salt marsh;EN
+3;T13;Temperate hardwood riparian forest;EN
+3;S82;Madeiran xerophytic scrub;EN
+3;V13;Arable land with unmixed crops grown by low-intensity agricultural methods;EN
+3;N19;Atlantic coastal Calluna and Ulex heath;LC
+3;N1A;Atlantic and Baltic coastal dune scrub;LC
+3;N1D;Atlantic and Baltic broad-leaved coastal dune forest;LC
+3;N1G;Mediterranean coniferous coastal dune forest;LC
+3;N1J;Mediterranean and Black Sea moist and wet dune slack;LC
+3;N21;Atlantic, Baltic and Arctic coastal shingle beach;LC
+3;N22;Mediterranean and Black Sea coastal shingle beach;LC
+3;N31;Atlantic and Baltic rocky sea cliff and shore;LC
+3;N32;Mediterranean and Black Sea rocky sea cliff and shore;LC
+3;N33;Macaronesian rocky sea cliff and shore;LC
+3;N34;Atlantic and Baltic soft sea cliff;LC
+3;R16;Perennial rocky grassland of Central and South-Eastern Europe;LC
+3;R17;Heavy-metal dry grassland of the Balkans;LC
+3;R1D;Mediterranean closely grazed dry grassland;LC
+3;R1E;Mediterranean tall perennial dry grassland;LC
+3;R1H;Iberian oromediterranean basiphilous dry grassland;LC
+3;R1K;Balkan and Anatolian oromediterranean dry grassland;LC
+3;R1N;Open Iberian supramediterranean dry acid and neutral grassland ;LC
+3;R31;Mediterranean tall humid inland grassland;LC
+3;R32;Mediterranean short moist grassland of lowlands;LC
+3;R33;Mediterranean short moist grassland of mountains;LC
+3;R34;Submediterranean moist meadow;LC
+3;R42;Boreal and arctic acidophilous alpine grassland ;LC
+3;R43;Temperate acidophilous alpine grassland ;LC
+3;R44;Arctic-alpine calcareous grassland;LC
+3;R45;Alpine and subalpine calcareous grassland of the Balkans and Apennines;LC
+3;R52;Forest fringe of acidic nutrient-poor soils;LC
+3;R54;Pteridium aquilinum vegetation;LC
+3;R56;Montane to subalpine moist or wet tall-herb and fern fringe;LC
+3;T12;Alnus glutinosa-Alnus incana forest on riparian and mineral soils;LC
+3;T19;Temperate and submediterranean thermophilous deciduous forest;LC
+3;T1A;Mediterranean thermophilous deciduous forest;LC
+3;T1C;Temperate and boreal mountain Betula and Populus tremula forest on mineral soils ;LC
+3;T1D;Southern European mountain Betula and Populus tremula forest on mineral soils;LC
+3;T1F;Ravine forest;LC
+3;T21;Mediterranean evergreen Quercus forest;LC
+3;T22;Mainland laurophyllous forest;LC
+3;T24;Olea europaea-Ceratonia siliqua forest ;LC
+3;T25;Phoenix theophrasti vegetation;LC
+3;T27;Ilex aquifolium forest;LC
+3;T31;Temperate mountain Picea forest;LC
+3;T32;Temperate mountain Abies forest;LC
+3;T33;Mediterranean mountain Abies forest;LC
+3;T36;Temperate and submediterranean montane Pinus sylvestris-Pinus nigra forest;LC
+3;T37;Mediterranean montane Pinus sylvestris-Pinus nigra forest;LC
+3;T39;Mediterranean and Balkan subalpine Pinus heldreichii-Pinus peuce forest;LC
+3;T3A;Mediterranean lowland to submontane Pinus forest;LC
+3;T3B;Pinus canariensis forest;LC
+3;T3C;Taxus baccata forest;LC
+3;T3D;Mediterranean Cupressaceae forest;LC
+3;T3G;Pinus sylvestris light taiga;LC
+3;S11;Shrub tundra  ;LC
+3;S12;Moss and lichen tundra  ;LC
+3;S21;Subarctic and alpine dwarf Salix scrub  ;LC
+3;S22;Alpine and subalpine ericoid heath  ;LC
+3;S23;Alpine and subalpine Juniperus scrub  ;LC
+3;S24;Subalpine genistoid scrub of the Amphi-Adriatic region;LC
+3;S25;Subalpine and subarctic deciduous scrub  ;LC
+3;S26;Subalpine Pinus mugo scrub;LC
+3;S31;Lowland to montane temperate and submediterranean Juniperus scrub  ;LC
+3;S33;Lowland to montane temperate and submediterranean genistoid scrub  ;LC
+3;S35;Temperate and submediterranean thorn scrub  ;LC
+3;S36;Low steppic scrub  ;LC
+3;S37;Corylus avellana scrub;LC
+3;S43;Macaronesian heath;LC
+3;S51;Mediterranean maquis and arborescent matorral;LC
+3;S52;Submediterranean pseudomaquis  ;LC
+3;S63;Eastern garrigue  ;LC
+3;S65;Mediterranean gypsum scrub  ;LC
+3;S66;Mediterranean halo-nitrophilous scrub  ;LC
+3;S71;Western Mediterranean spiny heath;LC
+3;S72;Eastern Mediterranean spiny heath (phrygana) ;LC
+3;S73;Western Mediterranean mountain hedgehog-heath;LC
+3;S74;Central Mediterranean mountain hedgehog-heath;LC
+3;S75;Eastern Mediterranean mountain hedgehog-heath;LC
+3;S76;Canarian mountain hedgehog-heath;LC
+3;S91;Temperate riparian scrub;LC
+3;S93;Mediterranean riparian scrub ;LC
+3;U11;Cave;LC
+3;U21;Boreal and arctic siliceous scree and block field;LC
+3;U22;Temperate high-mountain siliceous scree;LC
+3;U23;Temperate, lowland to montane siliceous scree;LC
+3;U26;Temperate high-mountain base-rich scree and moraine;LC
+3;U27;Temperate, lowland to montane base-rich scree;LC
+3;U28;Western Mediterranean base-rich scree;LC
+3;U29;Eastern Mediterranean base-rich scree;LC
+3;U31;Boreal and arctic siliceous inland cliff;LC
+3;U32;Temperate high-mountain siliceous inland cliff;LC
+3;U33;Temperate, lowland to montane siliceous inland cliff;LC
+3;U34;Mediterranean siliceous inland cliff;LC
+3;U36;Temperate high-mountain base-rich inland cliff;LC
+3;U37;Temperate, lowland to montane base-rich inland cliff;LC
+3;U38;Mediterranean base-rich inland cliff;LC
+3;U3C;Macaronesian inland cliff;LC
+3;U3E;Limestone pavement;LC
+3;U51;Fjell field;LC
+3;U61;Subarctic volcanic field ;LC
+3;U62;Mediterranean, Macaronesian and temperate volcanic field;LC
+3;S61;Western basiphilous garrigue ;LC
+3;S62;Western acidophilous garrigue ;LC
+3;N12;Mediterranean and Black Sea sand beach;NT
+3;N13 ;Atlantic and Baltic shifting coastal dune;NT
+3;R19;Dry steppic submediterranean pasture of the Amphi-Adriatic region;NT
+3;R1B;Continental dry grassland (true steppe);NT
+3;R1F;Mediterranean annual-rich dry grassland;NT
+3;R1G;Iberian oromediterranean siliceous dry grassland;NT
+3;R1R;Mediterranean to Atlantic open, dry, acid and neutral grassland ;NT
+3;R24;Iberian summer pasture (vallicar);NT
+3;R51;Thermophilous forest fringe of base-rich soils;NT
+3;R53;Macaronesian thermophilous forest fringe;NT
+3;R73;Mediterranean wooded pasture and meadow;NT
+3;T11;Temperate Salix and Populus riparian forest;NT
+3;T17;Fagus forest on non-acid soils;NT
+3;T18;Fagus forest on acid soils;NT
+3;T1E;Carpinus and Quercus mesic deciduous forest;NT
+3;T34;Temperate subalpine Larix, Pinus cembra and Pinus uncinata forest;NT
+3;T35;Temperate continental Pinus sylvestris forest;NT
+3;T3F;Dark taiga;NT
+3;S92;Salix fen scrub ;NT
+3;U43;Rock glacier and unvegetated ice-dominated moraine;NT
+3;U52;Polar desert;NT
+3;U53;Glacial moraines with very sparse or no vegetation;NT
+3;N11;Atlantic, Baltic and Arctic sand beach;VU
+3;N14;Mediterranean, Macaronesian and Black Sea shifting coastal dune;VU
+3;N18;Atlantic and Baltic coastal Empetrum heath;VU
+3;N1B;Mediterranean and Black Sea coastal dune scrub;VU
+3;N1F;Baltic coniferous coastal dune forest;VU
+3;R12;Cryptogam- and annual-dominated vegetation on siliceous rock outcrops ;VU
+3;R13;Cryptogam- and annual-dominated vegetation on calcareous and ultramafic rock outcrops;VU
+3;R14;Perennial rocky grassland of the Italian Peninsula ;VU
+3;R18;Perennial rocky calcareous grassland of subatlantic-submediterranean Europe;VU
+3;R1A;Semi-dry perennial calcareous grassland (meadow steppe);VU
+3;R1M;Lowland to montane, dry to mesic grassland usually dominated by Nardus stricta;VU
+3;R21;Mesic permanent pasture of lowlands and mountains;VU
+3;R22;Low and medium altitude hay meadow;VU
+3;R23;Mountain hay meadow;VU
+3;R41;Snow-bed vegetation;VU
+3;R55;Lowland moist or wet tall-herb and fern fringe;VU
+3;R61;Mediterranean inland salt steppe;VU
+3;R62;Continental inland salt steppe;VU
+3;R71;Temperate wooded pasture and meadow;VU
+3;T14;Mediterranean and Macaronesian riparian forest;VU
+3;T15;Broadleaved swamp forest on non-acid peat;VU
+3;T16;Broadleaved mire forest on acid peat;VU
+3;T1B;Acidophilous Quercus forest;VU
+3;T23;Macaronesian laurophyllous forest;VU
+3;T26;Phoenix canariensis vegetation;VU
+3;T28;Macaronesian heathy forest;VU
+3;T38;Mediterranean montane Cedrus forest;VU
+3;T3E;Macaronesian Juniperus forest;VU
+3;S34;Balkan-Anatolian submontane genistoid scrub;VU
+3;S41;Wet heath;VU
+3;S42;Dry heath;VU
+3;S54;Thermomediterranean arid scrub  ;VU
+3;S81;Canarian xerophytic scrub ;VU
+3;U41;Snow pack;VU
+3;U42;Ice cap and glacier;VU
+3;N15;Atlantic and Baltic coastal dune grassland (grey dune);VU
+3;N1H;Atlantic and Baltic moist and wet dune slack;VU
+1;N;Coastal habitats ;
+2;N1;Coastal dunes and sandy shores ;
+4;N111;Boreo-Arctic sand beach annual communities;
+4;N112;Middle European sand beach annual communities;
+5;N1121;Baltic sand beach annual communities;
+4;N113;Unvegetated Atlantic, Baltic and Arctic sand beaches above the driftline;
+5;N1131;Baltic unvegetated spits and bars above the driftline;
+5;N1132;Baltic unvegetated sandy beaches above the driftline;
+4;N114;Biocenosis of Atlantic, Baltic and Arctic supralittoral sands;
+5;N1141;Facies of Atlantic, Baltic and Arctic depressions with residual humidity;
+5;N1142;Facies of quickly-drying wracks on Atlantic, Baltic and Arctic beaches;
+5;N1143;Facies of tree trunks which have been washed ashore on Atlantic, Baltic and Arctic beaches;
+4;N115;Boreo-arctic sand beach perennial communities;
+5;N1151;North Sea sand beach perennial communities;
+5;N1152;Baltic sand beach perennial communities;
+5;N1153;Boreo-Bothnian sand beach perennial communities;
+5;N1154;Icelandic sand beach perennial communities;
+5;N1155;Atlantic, Baltic and Arctic beach ridges consisting of algal or other plant material;
+4;N116;Atlantic, Baltic and Arctic bandy beach ridges with no or low vegetation;
+4;N117;Atlantic, Baltic and Arctic sandy beach ridges dominated by shrubs or trees;
+4;N121;Tethyan sand beach driftline communities;
+5;N1211;Western Tethyan sand beach annual communities;
+5;N1212;Pontic sand beach annual communities;
+5;N1213;Pontic sand beach perennial communities;
+4;N122;Unvegetated Mediterranean and Black Sea sand beaches above the driftline;
+4;N123;Biocenosis of Mediterranean and Black Sea supralittoral sands;
+5;N1231;Facies of Mediterranean and Black Sea depressions with residual humidity;
+5;N1232;Facies of quickly-drying wracks of Mediterranean and Black Sea beaches;
+5;N1233;Facies of tree trunks which have been washed ashore on Mediterranean and Black Sea beaches;
+5;N1234;Facies of phanerogams which have been washed ashore (upper part);
+4;N124;Mediterranean and Black Sea sandy beach ridges with no or low vegetation;
+4;N125;Mediterranean and Black Sea sandy beach ridges dominated by shrubs or trees;
+4;N131;Atlantic and Baltic embryonic dunes;
+4;N132;Atlantic and Baltic large migrating dunes with no or low vegetation;
+4;N133;Coastal dunes: white dunes (sensu strictu);
+4;N134;Coastal dunes: green dunes;
+4;N135;Young boreo-arctic dunes;
+5;N1351;Arctic dunes;
+5;N1352;Icelandic foredunes;
+5;N1353;Bothnian foredunes;
+4;N141;Western Tethyan embryonic dunes;
+4;N142;Pontic embryonic dunes;
+4;N143;Mediterranean, Macaronesian and Black Sea large migrating dunes with no or low vegetation;
+4;N144;Western Tethyan white dunes;
+4;N145;Canario-Saharan white dunes;
+4;N146;Pontic white dunes;
+4;N151;Northern fixed grey dunes;
+5;N1511;Crested-hairgrass dune communities;
+5;N1512;Grey-hairgrass dune communities;
+5;N1513;Mouse-ear dune communities;
+4;N152;Biscay fixed grey dunes;
+4;N153;Atlantic dune Mesobromion grassland;
+4;N154;Atlantic dune thermophile fringes;
+4;N155;Atlantic and Baltic dune fine-grass annual communities;
+4;N156;Boreo-arctic grey dunes;
+4;N161;Mediterraneo-Atlantic fixed grey dunes;
+4;N162;East Mediterranean fixed grey dunes;
+4;N163;Mediterranean and Macaronesian dune fine-grass annual communities;
+4;N164;Tethyan dune deep sand therophyte communities;
+4;N165;Dune Mediterranean xeric grassland;
+4;N166;Thermo-Atlantic succulent and semi-fixed dunes;
+4;N171;Pontic fixed dunes;
+5;N1711;Western Pontic fixed dunes;
+6;N17111;Southwestern Pontic fixed dunes;
+6;N17112;Northwestern Pontic fixed dunes;
+5;N1712;Eastern Pontic fixed dunes;
+5;N1713;Southern Pontic fixed dunes;
+4;N191;Calluna vulgaris brown dunes;
+5;N1911;East Anglian ling coastal dune heaths;
+5;N1912;French ling coastal dune heaths;
+5;N1913;British bell heather coastal dune heaths;
+5;N1914;French bell heather coastal dune heaths;
+5;N1915;French Dorset heath coastal dune heaths;
+5;N1916;Iberian green heather coastal dune heaths;
+5;N1917;Iberian Dorset heath coastal dune heaths;
+5;N1918;Northern ling coastal dune heaths;
+4;N1A1;Atlantic and Baltic coastal dune thickets;
+5;N1A11;Hippophae rhamnoides dune thickets;
+5;N1A12;Western nemoral mixed dune thickets;
+4;N1A2;Salix arenaria mats;
+4;N1A3;Dune Juniperus thickets;
+5;N1A31;Common juniper dune thickets;
+4;N1A4;"Coastal dune Rosa rugosa thickets
+";
+4;N1B1;Mediterranean and Black Sea coastal dune thickets;
+4;N1B2;Dune Juniperus thickets;
+5;N1B21;Dune prickly juniper thickets;
+5;N1B22;Lycian juniper thickets;
+5;N1B23;Rufescent juniper thickets;
+4;N1B3;Dune sclerophyllous scrubs and thickets;
+4;N1F1;Coastal dunes covered with planted Pinus mugo woodland;
+4;N1H1;Atlantic and Baltic dune-slack pools;
+4;N1H2;Atlantic and Baltic dune-slack pioneer swards;
+4;N1H3;Atlantic and Baltic dune-slack fens;
+4;N1H4;Atlantic and Baltic dune-slack grassland and heaths;
+4;N1H5;Atlantic and Baltic dune-slack reedbeds, sedgebeds and canebeds;
+4;N1H6;Atlantic and Baltic coastal wet dune slacks dominated by shrubs or trees;
+4;N1J1;Mediterranean and Black Sea dune-slack pools;
+4;N1J2;Mediterranean and Black Sea dune-slack pioneer swards;
+4;N1J3;Mediterranean and Black Sea dune-slack fens;
+4;N1J4;Mediterranean and Black Sea dune-slack grassland and heaths;
+4;N1J5;Mediterranean and Black Sea dune-slack reedbeds, sedgebeds and canebeds;
+4;N1J6;Mediterranean and Black Sea coastal wet dune slacks dominated by shrubs or trees;
+2;N2;Coastal shingle;
+4;N211;Boreo-arctic gravel beach annual communities;
+4;N212;Atlantic and Baltic shingle beach drift lines;
+4;N213;Biocenosis of slowly drying wracks on Atlantic, Baltic and Arctic coastal shingle beaches;
+4;N214;Baltic Crambe maritima communities;
+4;N215;Channel Crambe maritima communities;
+4;N216;Atlantic Crambe maritima communities;
+4;N217;Gravelly beach and shingle pioneer communities;
+4;N218;Euro-Siberian gravel bank grasslands;
+4;N221;Gravel beach communities of the Mediterranean region;
+4;N222;Biocenosis of slowly drying wracks on Mediterranean and Black Sea coastal shingle beaches;
+2;N3;Rock cliffs, ledges and shores, including the supralittoral ;
+4;N311;High Arctic sea-cliffs and rocky shores;
+4;N312;Atlantic low Arctic sea-cliffs and rocky shores;
+4;N313;Temperate Atlantic sea-cliffs and rocky shores;
+4;N314;Unvegetated Baltic rocky shores and cliffs;
+5;N3141;Baltic boulder beaches;
+5;N3142;Baltic unvegetated gently sloping limestone rocky shores;
+5;N3143;Baltic unvegetated gently sloping sandstone rocky shores;
+5;N3144;Baltic unvegetated gently sloping crystalline bedrock shores;
+5;N3145;Baltic unvegetated coastal limestone cliffs and caves;
+5;N3146;Baltic unvegetated coastal sandstone cliffs and caves;
+5;N3147;Baltic unvegetated coastal crystalline bedrock cliffs and caves;
+4;N315;Atlantic and Baltic rock stacks and islets above splash zone;
+4;N316;Atlantic sea-cliff communities;
+4;N317;Vegetated Baltic gently sloping rocky shores and cliffs;
+5;N3171;Baltic gently sloping limestone rocky shores with low vegetation;
+5;N3172;Baltic gently sloping limestone rocky shores dominated by shrubs or trees;
+5;N3173;Baltic gently sloping sandstone rocky shores with low vegetation;
+5;N3174;Baltic gently sloping sandstone rocky shores dominated by shrubs or trees;
+5;N3175;Baltic gently sloping crystalline bedrock shores with low vegetation;
+5;N3176;Baltic gently sloping crystalline bedrock shores dominated by shrubs or trees;
+5;N3177;Baltic coastal limestone cliffs and caves with low vegetation;
+5;N3178;Baltic coastal limestone cliffs and caves dominated by shrubs or trees;
+5;N3179;Baltic coastal sandstone cliffs and caves with low vegetation;
+5;N317A;Baltic coastal sandstone cliffs and caves dominated by shrubs or trees;
+5;N317B;Baltic coastal crystalline bedrock cliffs and caves with low vegetation;
+5;N317C;Baltic coastal crystalline bedrock cliffs and caves dominated by shrubs or trees;
+4;N321;Subtropical Thermo-Atlantic sea-cliffs and rocky shores;
+4;N322;Mediterraneo-Pontic sea-cliffs and rocky shores;
+4;N323;Mediterranean and Black Sea rock stacks and islets above splash zone;
+4;N324;Tethyan sea-cliff communities;
+5;N3241;Western Tethyan sea-cliff communities;
+5;N3242;Pontic sea-cliff communities;
+6;N32421;Western Pontic herbaceous sea-cliff communities;
+6;N32422;Western Pontic sea-cliff Ficus thickets;
+6;N32423;Western Pontic low cliff communities;
+6;N32424;Eastern Pontic sea-cliff communities;
+6;N32425;Southern Pontic sea-cliff communities;
+4;N325;Coastal lagoon cliff communities;
+5;N3251;Pantellerian lagoon cliff communities;
+5;N3252;Pontic saline lagoon cliffs;
+4;N331;Canary Island and Madeiran sea-cliff communities;
+4;N332;Azorean sea-cliff communities;
+4;N341;Baltic chalk and moraine cliffs;
+5;N3411;Baltic unvegetated coastal chalk cliffs and caves;
+5;N3412;Baltic coastal chalk cliffs and caves with low vegetation;
+5;N3413;Baltic coastal chalk cliffs and caves dominated by shrubs or trees;
+5;N3414;Baltic unvegetated coastal moraine cliffs and caves;
+5;N3415;Baltic sparasely vegetated coastal moraine cliffs and caves with low vegetation;
+5;N3416;Baltic sparsely vegetated coastal moraine cliffs and caves dominated by shrubs or trees;
+1;R;Grasslands and lands dominated by forbs, mosses or lichens;
+2;R1;Dry grasslands;
+4;R121;Bare weathered rock and outcrop habitats;
+4;R122;Sparsely vegetated weathered rock and outcrop habitats;
+4;R131;Fenno-Scandian pioneer rock swards;
+5;R1311;Alvar stonecrop swards;
+5;R1312;Fenno-Scandian Sedum-Viola-Aira rock swards;
+5;R1313;Fenno-Scandian Festuca-Viola rock swards;
+5;R1314;Boreo-Norvegian rock swards;
+3;R15;Continental dry rocky steppic grassland and dwarf scrub on chalk outcrops;
+4;R1A1;Helleno-Balkanic Satureja montana steppes;
+4;R1A2;Alvar steppes;
+5;R1A21;Fescue-thyme alvars;
+5;R1A22;Öland rock-rose alvars;
+5;R1A23;Meadow alvars;
+4;R1A3;Sub-Atlantic semi-dry calcareous grassland;
+5;R1A31;Northwestern semidry calcareous grasslands;
+6;R1A311;Fenno-Scandian sub-Atlantic calcicolous grasslands;
+6;R1A312;Hibernian dry calcicolous grasslands;
+6;R1A313;Scotian dry calcicolous grasslands;
+6;R1A314;Britannic Sesleria dry calcicolous grasslands;
+6;R1A315;Vecto-Cambrian Festuca-Carlina grasslands;
+6;R1A316;Southern Britannic dry calcicolous grasslands;
+5;R1A32;Middle European Bromus erectus semidry grasslands;
+6;R1A321;Mosan Mesobromion;
+6;R1A322;Low Meuse Mesobromion;
+6;R1A323;Harz Mesobromion;
+6;R1A324;Oder Mesobromion;
+6;R1A325;Paris basin Cretaceous Mesobromion;
+6;R1A326;Parisian Tertiary Mesobromion;
+6;R1A327;Paris basin Jurassic Mesobromion;
+6;R1A328;Middle Rhine Mesobromion;
+6;R1A329;Upper Rhine Mesobromion;
+6;R1A32A;Black Forest Mesobromion;
+6;R1A32B;Western Jura Mesobromion;
+6;R1A32C;Swabian Mesobromion;
+6;R1A32D;Franconian Mesobromion;
+6;R1A32E;Northwestern pre-Alpine Mesobromion;
+6;R1A32F;Eastern peri-Alpine Mesobromion;
+6;R1A32G;Ligerian Mesobromion;
+6;R1A32H;Aquitanian Mesobromion;
+6;R1A32I;Quercy Mesobromion;
+6;R1A32J;Western Pyrenean Mesobromion;
+6;R1A32K;Western Iberian Mesobromion;
+6;R1A32L;Eastern Hercynian Mesobromion;
+5;R1A33;Middle European Brachypodium semidry grasslands;
+5;R1A34;Alluvial and humid Mesobromion grasslands;
+5;R1A35;Middle European Sesleria semidry grasslands;
+5;R1A36;Sub-Mediterranean Mesobromion;
+5;R1A37;Insubrian Mesobromion grasslands;
+5;R1A38;Central Apennine Mesobromion grasslands;
+5;R1A39;Illyrian Mesobromion grasslands;
+6;R1A391;Illyrian brome-plantain grasslands;
+6;R1A392;Illyrian Sesleria grasslands;
+6;R1A393;Illyrian Molinia-Gladiolus grasslands;
+4;R1A4;Sub-Atlantic very dry calcareous grassland;
+5;R1A41;Southern Britannic Xerobromion grasslands;
+5;R1A42;Middle European Xerobromion grasslands;
+6;R1A421;Mosan Xerobromion;
+6;R1A422;Harz Xerobromion;
+6;R1A423;Paris basin Cretaceous Xerobromion;
+6;R1A424;Parisian Tertiary Xerobromion;
+6;R1A425;Paris basin Jurassic Xerobromion;
+6;R1A426;Middle Rhine Xerobromion;
+6;R1A427;Upper Rhine Xerobromion;
+6;R1A428;Western Jura Xerobromion;
+6;R1A429;Swabian Xerobromion;
+6;R1A42A;Franconian Xerobromion;
+6;R1A42B;Northwestern pre-Alpine Xerobromion;
+6;R1A42C;Bavarian Xerobromion;
+6;R1A42D;Ligerian Xerobromion;
+6;R1A42E;Aquitanian Xerobromion;
+6;R1A42F;Quercy Xerobromion;
+6;R1A42G;Pyrenean Xerobromion;
+6;R1A42H;Southwestern Alpine Xerobromion;
+6;R1A42I;Northern Apennine Xerobromion;
+5;R1A43;Hercynio-Jurassic blue moorgrass Xerobromion;
+4;R1A5;Brachypodium phoenicoides swards;
+4;R1A6;Meadows of the steppe zone;
+4;R1B1;Arid subcontinental steppic grassland (Festucion valesiacae);
+5;R1B11;Sub-Pannonic steppes;
+6;R1B111;Pre-Noric sub-Pannonic steppes;
+6;R1B112;Pre-Bohemian sub-Pannonic steppes;
+6;R1B113;Central Hungarian sub-Pannonic steppes;
+6;R1B114;Pre-Illyrian sub-Pannonic steppes;
+6;R1B115;Andropogonid sub-Pannonic steppes;
+6;R1B116;Sub-Pannonic rock steppes;
+5;R1B12;Moesio-Carpathian steppes;
+6;R1B121;Moesio-Carpathian feathergrass-fescue steppes;
+6;R1B122;Moesio-Carpathian andropogonid steppes;
+4;R1B2;Meso-xerophile subcontinental meadow-steppes (Cirsio-Brachypodion);
+5;R1B21;Sub-Pannonic meadow-steppes;
+5;R1B22;Sub-Pannonic wooded steppe meadows;
+5;R1B23;Dacio-Pannonic meadow-steppes;
+5;R1B24;Moesio-Carpathian meadow-steppes;
+4;R1B3;Central alpine arid grassland (Stipo-Poion);
+4;R1B4;Central European calcaro-siliceous grassland;
+5;R1B41;Hercynian calcaro-siliceous stony grasslands;
+5;R1B42;Central European calcaro-siliceous sand grasslands;
+6;R1B421;Calcicline Central European sand grasslands;
+6;R1B422;Acidocline Central European sand grasslands;
+6;R1B423;Substabilised Central European sand grasslands;
+4;R1B5;Festuca pallens grassland;
+5;R1B51;Calci-orophile pale fescue grasslands;
+6;R1B511;Dealpine calciphile pale fescue grasslands;
+7;R1B5111;Peri-Alpine feathergrass rock grasslands;
+7;R1B5112;Peri-Alpine blue moorgrass rock grasslands;
+7;R1B5113;Peri-Carpathian dealpine rock grasslands;
+7;R1B5114;Pannonic Sesleria sadleriana rock grasslands;
+7;R1B5115;Bohemian dealpine rock grasslands;
+6;R1B512;East Carpathian Sesleria rigida grasslands;
+5;R1B52;Calcicline pale fescue grasslands;
+6;R1B521;Peri-Hercynian calcicline pale fescue grasslands;
+6;R1B522;Circum-Pannonic calcicline pale fescue grasslands;
+7;R1B5221;Pre-Carpathian pale fescue grasslands;
+8;R1B52211;Pre-Carpathian Baden meadowgrass pale fescue grasslands;
+8;R1B52212;Pre-Carpathian Sesleria hungarica grasslands;
+7;R1B5222;Central Pannonic pale fescue grasslands;
+8;R1B52221;Pannonic dwarf sedge pale fescue grasslands;
+8;R1B52222;Pannonic seseli pale fescue grasslands;
+8;R1B52223;Pannonic brome pale fescue grasslands;
+8;R1B52224;Pannonic cinquefoil pale fescue grasslands;
+7;R1B5223;Pre-Dacic pale fescue grasslands;
+5;R1B53;Acidocline pale fescue grasslands;
+6;R1B531;Hercynian siliceous pale fescue grasslands;
+6;R1B532;Circum-Pannonic siliceous pale fescue grasslands;
+7;R1B5321;Pannonic siliceous spleenwort-melick rock grasslands;
+7;R1B5322;Pannonic Festuca pseudodalmatica rock grasslands;
+7;R1B5323;Transylvanian Festuca pseudodalmatica rock grasslands;
+7;R1B5324;Pannonic meadowgrass pale fescue grasslands;
+4;R1B6;Serpentine steppes;
+4;R1B7;Pannonic loess steppic grassland;
+5;R1B71;Pannonic loess steppes;
+5;R1B72;Pannonic tall forb meadow-steppes;
+5;R1B73;Pannonic semidesert steppes;
+5;R1B74;Pannonic loess pastures;
+4;R1B8;Ponto-Sarmatic steppes;
+5;R1B81;Western Pontic steppes;
+5;R1B82;Sarmatic steppes;
+5;R1B83;Eastern Pontic steppes;
+4;R1B9;Irano-Anatolian steppes;
+4;R1BA;Pannonic sand steppes;
+5;R1BA1;Pannonic sand pioneer swards;
+6;R1BA11;Drooping brome pioneer swards;
+6;R1BA12;Corispermum pioneer swards;
+6;R1BA13;Pannonic horsetail pioneer swards;
+5;R1BA2;Pannonic open sand steppes;
+6;R1BA21;Pannonic calciphile sand steppes;
+7;R1BA211;Pannonic calciphile sand fescue steppes;
+8;R1BA2111;Central Pannonic calciphile sand fescue steppes;
+8;R1BA2112;Eastern Pannonic calciphile sand fescue steppes;
+8;R1BA2113;Southern Pannonic calciphile sand fescue steppes;
+7;R1BA212;Pannonic feathergrass sand steppes;
+6;R1BA22;Pannonic acidophile sand fescue steppes;
+5;R1BA3;Festuca wagneri sand steppes;
+6;R1BA31;Central Pannonic Festuca wagneri sand steppes;
+6;R1BA32;Deliblat Festuca wagneri sand steppes;
+5;R1BA4;Pannonic closed sand steppes;
+5;R1BA5;Pannonic sand puszta;
+4;R1BB;Ponto-Sarmatic sand steppes;
+4;R1BC;Irano-Anatolian sand steppes;
+3;R1C;Desert steppe;
+4;R1D1;West Mediterranean xeric grassland;
+5;R1D11;Causse dolomitic arenas;
+4;R1D2;Southwestern Mediterranean perennial pastures;
+4;R1D3;East Mediterranean xeric grassland;
+5;R1D31;Helleno-Balkanic short grass and therophyte communities;
+5;R1D32;Asio-Mediterranean short grass and therophyte communities;
+4;R1E1;Retuse torgrass swards;
+4;R1E2;Crau steppe;
+4;R1E3;Eastern retuse torgrass swards;
+4;R1E4;Stipa tenacissima steppes;
+4;R1E5;Lygeum spartum steppes;
+5;R1E51;Iberian esparto steppes;
+5;R1E52;Central Mediterranean esparto steppes;
+5;R1E53;Cretan esparto steppes;
+4;R1E6;Mediterranean steppes dominated by tall grasses other than Stipa tenacissima or Lygeum spartum;
+5;R1E61;Berceales;
+5;R1E62;Mediterranean feathergrass steppes;
+5;R1E63;Diss steppes;
+5;R1E64;Andropogonid grass steppes;
+6;R1E641;Iberian andropogonid grass steppes;
+6;R1E642;Provençal andropogonid grass steppes;
+6;R1E643;Central Mediterranean andropogonid grass steppes;
+6;R1E644;Helleno-Balkanic andropogonid grass steppes;
+6;R1E645;Mediterraneo-Anatolian andropogonid grass steppes;
+5;R1E65;Andalusian fescue and oat grasslands;
+6;R1E651;Calcicolous fescue and oat grasslands;
+6;R1E652;Silicicolous fescue and oat grasslands;
+6;R1E653;Carrascoy fescue and oat grasslands;
+4;R1E7;Cane steppes;
+4;R1E8;Sub-Mediterranean Artemisia steppes;
+4;R1F1;Mediterranean annual communities of shallow soils;
+5;R1F11;Western Mediterranean calciphile annual communities;
+5;R1F12;Southeastern Iberian pre-desert annual communities;
+5;R1F13;Iberian gypsum annual communities;
+5;R1F14;Andalusian magnesium annual communities;
+5;R1F15;Sicilian saxicolous annual communities;
+5;R1F16;Northern Sicilian aster annual communities;
+5;R1F17;Calabro-Sicilian esparto annual communities;
+5;R1F18;Dalmatian siliceous grassland;
+4;R1G1;Iberian Festuca frost-influenced grassland;
+4;R1H1;Mediterraneo-montane steppes;
+5;R1H11;Mediterraneo-montane Stipa steppes;
+5;R1H12;Mediterraneo-montane Sesleria steppes;
+5;R1H13;Mediterraneo-montane Festuca-Koeleria steppes;
+5;R1H14;Mediterraneo-montane Artemisia steppes;
+4;R1H2;Aphyllanthes grassland and supra-Mediterranean steppes;
+4;R1H3;Central and southern Apennine dry grassland;
+4;R1K1;Lowland savory-chrysopogon dry grasslands ;
+5;R1K11;Helleno-Paeonian savory-chrysopogon dry grasslands;
+5;R1K12;Dalmatian savory-chrysopogon dry grasslands;
+6;R1K121;Dalmatian savory-fescue-hairgrass grasslands;
+6;R1K122;Dalmatian sage-feathergrass grasslands;
+6;R1K123;Dalmatian asphodel-chrysopogon grasslands;
+6;R1K124;Dalmatian thrift grasslands;
+6;R1K125;Dalmatian Aethionema grasslands;
+6;R1K126;Dalmatian fescue grasslands;
+4;R1K2;Mountain savory-chrysopogon dry grasslands;
+5;R1K21;Rock knapweed-dwarf sedge grasslands;
+5;R1K22;Savory-edraianthus grasslands;
+5;R1K23;Mucronated sedge grasslands;
+5;R1K24;Triestine knapweed-chrysopogon grasslands;
+5;R1K25;Silky greenwood-Sesleria grasslands;
+4;R1K3;Viper's grass dry grasslands;
+5;R1K31;Viper's grass-lime sieglinglia grasslands;
+5;R1K32;Spurge-chrysopogon grasslands;
+5;R1K33;Restharrow-brome grasslands;
+5;R1K34;Viper's grass-catsear grasslands;
+5;R1K35;Lousewort-dwarf sedge grasslands;
+5;R1K36;Croatian fescue-meadowgrass grasslands;
+5;R1K37;Cleistogenes grasslands;
+4;R1K4;Bosnian dolomite grasslands;
+4;R1M1;Nardus stricta swards;
+5;R1M11;Insular Nardus-Galium grasslands;
+5;R1M12;Sub-Atlantic Nardus-Galium grasslands;
+5;R1M13;Beskid Calluna-Nardus grassland;
+5;R1M14;Bohemian orchid-matgrass swards;
+5;R1M15;Illyrian mat-grass swards;
+4;R1M2;Agrostis - Festuca grassland;
+5;R1M21;Nemoral Agrostis-Festuca grasslands;
+6;R1M211;Britannic Agrostis-Festuca grasslands;
+6;R1M212;Fenno-Scandian boreo-nemoral Agrostis-Festuca grasslands;
+6;R1M213;Gallo-Britannic Agrostis curtisii grasslands;
+6;R1M214;Iberian Agrostis-Festuca grasslands;
+6;R1M215;Sub-Atlantic Agrostis-Festuca grasslands;
+4;R1M3;Deschampsia flexuosa grassland;
+4;R1M4;Calamagrostis epigejos stands;
+4;R1M5;Carex arenaria grassland;
+4;R1M6;Dry sub-continental acid steppic grasslands;
+4;R1M7;Southern Italian Nardus stricta swards and related communities;
+4;R1M8;Balkanic montane Nardus stricta swards;
+4;R1N1;Western Mediterranean therophytic siliceous grassland;
+4;R1N2;Iberian Festuca elegans grassland;
+4;R1N3;West Mediterraneo-montane Nardus stricta swards;
+4;R1P1;Dwarf annual siliceous grassland;
+4;R1P2;Perennial open siliceous grassland;
+4;R1Q1;Corynephorus grassland;
+4;R1Q2;Inland dune pioneer grassland;
+4;R1Q3;Inland dune siliceous grassland;
+4;R1Q4;Northern fluviatile dunes;
+4;R1Q5;Southern fluviatile dunes;
+4;R1Q6;Breckland inland dunes;
+4;R1Q7;Pannonic inland dunes;
+5;R1Q71;Pannonic bare sands;
+5;R1Q72;Pannonic dune lichen communities;
+5;R1Q73;Pannonic dune pioneer grasslands;
+5;R1Q74;Pannonic dune open grasslands;
+5;R1Q75;Pannonic dune closed grasslands;
+5;R1Q76;Pannonic dune thickets and scrubs;
+5;R1Q77;Pannonic dune woods;
+4;R1Q8;Pontic inland dunes;
+5;R1Q81;Pontic bare sands;
+5;R1Q82;Pontic dune lichen communities;
+5;R1Q83;Pontic dune pioneer grasslands;
+5;R1Q84;Pontic dune open grasslands;
+5;R1Q85;Pontic dune closed grasslands;
+4;R1Q9;Standing stone inland dunes;
+4;R1R1;Mediterranean annual deep-sand communities;
+4;R1R2;Supra-Mediterranean perennial siliceous grasslands;
+5;R1R21;Iberian Festuca - Plantain swards;
+5;R1R22;Helleno-Balkanic supra-Mediterranean siliceous grasslands;
+4;R1R3;Rhône riverine dunes;
+4;R1R4;Southern Iberian inland dunes;
+4;R1R5;Irano-Anatolian inland dunes;
+4;R1S1;Atlantic heavy-metal grassland;
+5;R1S11;British heavy metal grasslands;
+5;R1S12;Irish heavy metal grasslands;
+4;R1S2;Calaminarian grassland;
+5;R1S21;Viola calaminaria grasslands;
+5;R1S22;Viola guestphalica grasslands;
+5;R1S23;Western calaminarian thrift grasslands;
+5;R1S24;Calaminarian pennycress grasslands;
+4;R1S3;Central European heavy-metal grassland;
+4;R1S4;Calaminarian Silene vulgaris grassland;
+4;R1S5;Alpine heavy-metal grassland;
+2;R2;Mesic grasslands ;
+4;R211;Unbroken pastures;
+5;R2111;Ryegrass pastures;
+5;R2112;Atlantic Cynosurus-Centaurea pastures;
+5;R2113;Sub-Atlantic hill pastures;
+5;R2114;Continental pastures;
+4;R212;Ditch-broken pastures;
+4;R213;Abandoned pastures;
+4;R214;Species-rich lowland flood meadows;
+4;R215;Macaronesian mesic grassland;
+4;R216;Boreo-arctic Agrostis-Festuca grasslands;
+5;R2161;Boreo-subalpine Agrostis grasslands;
+5;R2162;Icelandic Anthoxanthum-Hierochloe grasslands;
+5;R2163;Northern boreal Festuca grasslands;
+5;R2164;Icelandic Festuca grasslands;
+5;R2165;Fenno-Scandian Avenula pratensis-Festuca rubra grasslands;
+4;R221;Atlantic hay meadows;
+5;R2211;Atlantic Arrhenatherum grasslands;
+5;R2212;Atlantic Alopecurus-Sanguisorba grasslands;
+4;R222;Sub-Atlantic lowland hay meadows;
+5;R2221;Xero-mesophile medio-European lowland hay meadows;
+5;R2222;Hygromesophile medio-European lowland hay meadows;
+4;R223;Continental meadows;
+5;R2231;Ponto-Pannonic mesophile hay meadows;
+5;R2232;Moeso-Thracian mesophile hay meadows;
+6;R22321;Moeso-Thracian mesophile floodplain meadows;
+6;R22322;Moeso-Thracian mesophile foothill meadows;
+6;R22323;Moeso-Thracian mesophile cold water meadows;
+4;R231;Medio-European submontane hay meadows;
+5;R2311;Western Hercynian submontane hay meadows;
+5;R2312;Eastern Hercynio-Baltic submontane hay meadows;
+5;R2313;Carpathian submontane hay meadows;
+6;R23131;Western Carpathian gladiolus meadows;
+6;R23132;Western Carpathian vetch-clover meadows;
+6;R23133;Eastern Carpathian yellow oatgrass meadows;
+5;R2314;Northern Iberian submontane hay meadows;
+5;R2315;Alpic submontane hay meadows;
+5;R2316;Jurassian submontane hay meadows;
+5;R2317;Illyrian submontane hay meadows;
+5;R2318;Southwestern Moesian submontane hay meadows;
+4;R232;Boreal and sub-boreal meadows;
+5;R2321;Fenno-Scandian boreal and sub-boreal meadows;
+5;R2322;Britannic submontane meadows;
+4;R233;Alpic mountain hay meadows;
+4;R234;Ponto-Caucasian hay meadows;
+4;R235;Balkan mountain hay meadows;
+4;R241;Perennial vallicares;
+4;R242;Annual vallicares;
+4;R243;Andalusian Armeria vallicares;
+2;R3;Seasonally wet and wet grasslands ;
+4;R311;Mediterranean tall humid grassland of mountains;
+5;R3111;Peat grasslands of Troodos;
+4;R312;Mediterranean tall humid grassland of lowlands;
+5;R3121;Serapias grassland;
+4;R341;Helleno-Moesian riverine and humid Trifolium meadows;
+4;R342;Apennine humid meadows;
+4;R343;Dalmatian riverine and humid meadows;
+4;R344;Illyrio-Moesian riverine and humid Trifolium meadows;
+4;R345;Anatolian supra-Mediterranean humid grassland;
+4;R351;Atlantic and sub-Atlantic humid meadows;
+4;R352;Juncus acutiflorus meadows;
+4;R353;Subcontinental riverine meadows;
+4;R354;Recently abandoned hay meadows;
+4;R355;Continental humid meadows;
+4;R356;Northern boreal alluvial meadows;
+4;R361;Atlantic and sub-Atlantic humid pastures;
+4;R362;Flood swards and related communities;
+4;R371;Molinia caerulea meadows and related communities;
+5;R3711;Calcicline purple moorgrass meadows;
+5;R3712;Acidocline purple moorgrass meadows;
+5;R3713;Giant moorgrass swards;
+5;R3714;Boreal purple moorgrass meadows;
+4;R372;Heath Juncus meadows and humid Nardus stricta swards;
+4;R373;Continental oligotrophic humid grassland;
+2;R4;Alpine and subalpine grasslands ;
+4;R411;Boreo-alpine acidocline snow-patch grassland and herb habitats;
+5;R4111;Alpic acid moss snow-patch communities;
+5;R4112;Alpic acid cudweed snow-patch communities;
+5;R4113;Luzula spadicea snow patch communities;
+5;R4114;Hercynian acid snow patch communities;
+5;R4115;Boreal moss snowbed communities;
+5;R4116;Boreo-alpine Deschampsia-Anthoxanthum communities;
+5;R4117;Boreo-alpine herb-rich acid snowbed communities;
+5;R4118;Boreo-alpine acidocline sedge and rush snowbed communities;
+4;R412;Boreo-alpine calcicline snow-patch grassland and herb habitats;
+5;R4121;Alpic small herb calcicolous snow-patch communities;
+6;R41211;Arabis-Gnaphalium snow-patch communities;
+6;R41212;Carpathian saxifrage snow-patch communities;
+6;R41213;Dinaro-Pelagonide calciphile herbaceous snow-patch communities;
+5;R4122;Distichium capillaceum snowbed communities;
+5;R4123;Snow buttercup snowbed communities;
+5;R4124;Snow grass snowbed communities;
+5;R4125;Arctic woodrush snowbed communities;
+5;R4126;Boreal herb-rich calcicline snowbed communities;
+5;R4127;Subarctic small-herb snowbed communities;
+4;R413;Ponto-Caucasian snow-patch grassland;
+4;R414;Boreo-alpine fern snowbed grassland;
+4;R431;Alpic Nardus stricta swards and related communities;
+5;R4311;Pyreneo-Alpine mesophile mat-grass swards;
+5;R4312;Pyreneo-Alpine hygrophile mat-grass swards;
+5;R4313;Pyreneo-Alpine hygrophile foxtail swards;
+5;R4314;Pyrenean closed Festuca eskia grassland;
+5;R4315;Pyrenean Poa violacea swards;
+5;R4316;Hercynian summital mat-grass swards;
+6;R43161;Hautes Chaumes summital mat-grass swards;
+6;R43162;Black Forest summital mat-grass swards;
+6;R43163;Harz summital mat-grass swards;
+6;R43164;Bohemian Forest summital mat-grass swards;
+6;R43165;Sudeten summital mat-grass swards;
+5;R4317;Carpathian mat-grass swards;
+6;R43171;Western Carpathian mat-grass swards;
+6;R43172;Eastern Carpathian mat-grass swards;
+5;R4318;Oro-Moesian mat-grass swards;
+5;R4319;Dinaride mat-grass swards;
+4;R432;Thermo-Alpigenous subalpine acidophilous grassland;
+5;R4321;Thermo-Alpigenous Festuca paniculata swards;
+5;R4322;Pyrenean Festuca eskia garland-grasslands;
+5;R4323;Arverno-Alpine varicoloured fescue garland-grasslands;
+4;R433;Alpigenous acidophilous grassland;
+5;R4331;Alpigenous crooked-sedge grasslands;
+6;R43311;Alpine Carex curvula grasslands;
+6;R43312;Pyrenean Carex curvula grasslands;
+6;R43313;Carpathian Carex curvula grasslands;
+5;R4332;Alpigenous Festuca halleri grasslands;
+5;R4333;Alpigenous Festuca airoides grasslands;
+6;R43331;Pyrenean Festuca airoides grasslands;
+6;R43332;Carpathian Festuca airoides grasslands;
+6;R43333;Hercynian Festuca airoides grasslands;
+5;R4334;Pyrenean Festuca borderi swards;
+5;R4335;Alpigenous Oreochloa disticha swards;
+6;R43351;Alpine Oreochloa disticha swards;
+6;R43352;Carpathian Oreochloa disticha grasslands;
+6;R43353;Hercynio-Carpathian Juncus trifidus swards;
+6;R43354;Bohemian Forest Juncus trifidus swards;
+6;R43355;Sudeten Juncus trifidus swards;
+6;R43356;Carpathian Juncus trifidus swards;
+7;R433561;Northern Carpathian Juncus trifidus swards;
+7;R433562;Eastern Carpathian Juncus trifidus swards;
+6;R43357;Alpine Juncus trifidus swards;
+5;R4336;Cantabrian Oreochloa blanka swards;
+5;R4337;Alpigenous Agrostis rupestris swards;
+4;R434;Oro-Hellenic closed grassland;
+4;R435;Oro-Iberian acidophilous grassland;
+5;R4351;Oro-Iberian acidophilous stripped grasslands;
+6;R43511;Cantabrian acidophilous stripped grasslands;
+6;R43512;Iberian Range acidophilous stripped grasslands;
+6;R43513;Cordilleran Festuca stripped grasslands;
+6;R43514;Cordilleran Agrostis stripped grasslands;
+6;R43515;Nevadan Festuca indigesta stripped grasslands;
+6;R43516;Nevadan Agrostis stripped grasslands;
+6;R43517;Nevadan tall fescue stripped grasslands;
+6;R43518;Nevadan Festuca clementei stripped grasslands;
+6;R43519;Nevadan Trisetum stripped grasslands;
+5;R4352;Oro-Iberian mat-grass swards;
+6;R43521;Cantabrio-Cordilleran oro-Mediterranean mat-grass swards;
+6;R43522;Nevadan borreguiles;
+4;R436;Oro-Corsican grassland;
+4;R437;Oro-Apennine closed grassland;
+4;R438;Oro-Moesian acidophilous grassland;
+5;R4381;Oro-Moesian Festuca paniculata grasslands;
+5;R4382;Oro-Moesian varicoloured fescue grasslands;
+6;R43821;Oro-Moesian Festuca valida grasslands;
+6;R43822;Balkan Festuca balcanica grasslands;
+6;R43823;Pelagonide Festuca varia grasslands;
+5;R4383;Oro-Moesian Poa violacaea grasslands;
+5;R4384;Oro-Moesian aeolian grasslands;
+6;R43841;Oro-Moesian crooked sedge grasslands;
+6;R43842;Oro-Moesian Haller fescue grasslands;
+7;R438421;Rhodopide Festuca riloensis grasslands;
+7;R438422;Pelagonide Festuca scardica grasslands;
+7;R438423;Montenegrine Festuca riloensis grasslands;
+6;R43843;Oro-Moesian Festuca airoides grasslands;
+6;R43844;Oro-Moesian Sesleria comosa grasslands;
+6;R43845;Oro-Moesian Agrostis rupestris grasslands;
+6;R43846;Southern Pelagonide aeolian grasslands;
+6;R43847;Montenegrine aeolian fescue grasslands;
+4;R439;Western Asian acidophilous alpine grassland;
+4;R43A;Illyrian alpine and subalpine acid open grasslands;
+4;R441;Closed calciphile arctic-alpine grassland;
+5;R4411;Mesophile evergreen sedge grasslands;
+6;R44111;Alpine evergreen sedge grasslands;
+6;R44112;Pyrenean evergreen sedge grasslands;
+5;R4412;Northern rusty sedge grasslands;
+5;R4413;Southern rusty sedge grasslands;
+5;R4414;Arctic-alpine Violet fescue swards and related communities;
+5;R4415;Cantabrian thrift swards;
+5;R4416;Jura summital swards;
+4;R442;Arctic-alpine wind edge Kobresia myosuroides swards;
+5;R4421;Alpine naked-rush swards;
+5;R4422;Pyrenean naked-rush swards;
+5;R4423;Cantabrian naked-rush swards;
+5;R4424;Carpathian naked-rush swards;
+5;R4425;Scandinavian naked-rush swards;
+4;R443;Arctic-alpine  calciphilous stepped and garland grassland;
+5;R4431;Blue moorgrass-evergreen sedge swards;
+6;R44311;Alpine blue moorgrass-evergreen sedge swards;
+6;R44312;Jura blue moorgrass-evergreen sedge swards;
+5;R4432;Southern Alpine oatgrass-blue moorgrass swards;
+5;R4433;Arctic-alpine cushion sedge carpets;
+6;R44331;Alpine cushion sedge carpets;
+6;R44332;Western Carpathian cushion sedge carpets;
+6;R44333;Eastern Carpathian cushion sedge carpets;
+5;R4434;Pyrenean Festuca gautieri grasslands;
+5;R4435;Oro-Iberian calciphilous stripped grasslands;
+5;R4436;Carpathian calciphile stepped grasslands;
+6;R44361;West Carpathian calciphile stepped grasslands;
+7;R443611;Tatra Sesleria-evergreen sedge grasslands;
+7;R443612;West Carpathian Festuca versicolor grasslands;
+7;R443613;Hercynio-Carpathian Agrostis alpina grasslands;
+6;R44362;East Carpathian calciphile stepped grasslands;
+7;R443621;East Carpathian Sesleria-evergreen sedge grasslands;
+7;R443622;East Carpathian Festuca versicolor grasslands;
+7;R443623;East Carpathian Festuca amethystina grasslands;
+7;R443624;East Carpathian Festuca flaccida grasslands;
+4;R444;Ponto-Caucasian alpine grassland;
+5;R4441;Pontic alpine grassland;
+5;R4442;Caucasian alpine grassland;
+5;R4443;Crimean alpine grassland;
+5;R4444;Hyrcanian alpine grassland;
+4;R451;Closed calciphile alpine grassland of the Balkans and Apennines;
+5;R4511;Violet fescue swards and related communities of the Balkans and Apennines;
+5;R4512;Dinaro-Moesian oligophile closed calcicolous grasslands;
+6;R45121;Dinaric oligophile closed calcicolous grasslands;
+7;R451211;Dinaric pungent fescue grasslands;
+7;R451212;Dinaric violet fescue grasslands;
+7;R451213;Dinaric closed evergreen sedge grasslands;
+6;R45122;Rhodo-Pelagonian oligophile closed calcicolous grasslands;
+7;R451221;Rhodopide pungent fescue grasslands;
+8;R4512211;Pirin fescue grasslands;
+8;R4512212;Slavianka pungent fescue grasslands;
+7;R451222;Pelagonide closed calcicolous feathergrass grasslands;
+7;R451223;Pelagonide closed calcicolous sesleria grasslands;
+7;R451224;Pelagonide closed calcicolous fescue grasslands;
+6;R45123;Balkan oligophile closed calcicolous grasslands;
+7;R451231;Balkan closed calcicolous fescue grasslands;
+7;R451232;Balkan closed erect brome grasslands;
+7;R451233;Balkan closed evergreen sedge grasslands;
+5;R4513;Dinaro-Moesian mesophile closed calcicolous grasslands;
+6;R45131;Dinaric rusty sedge grasslands;
+6;R45132;Dinaric bellflower grasslands;
+6;R45133;Western Balkanic calcicolous scabious-fescue grasslands;
+4;R452;Wind edge Kobresia myosuroides swards  of the Balkans and Apennines;
+5;R4521;Apennine naked-rush swards;
+5;R4522;Pirin naked-rush swards;
+5;R4523;Pelagonide naked-rush swards;
+4;R453;Calciphilous stepped and garland grassland of the Balkans and Apennines;
+5;R4531;Cushion sedge carpets of the Balkans and Apennines;
+6;R45311;Dinaric cushion sedge carpets;
+5;R4532;Apennine stripped grasslands;
+5;R4533;Helleno-Balkanic stripped grasslands;
+5;R4534;Oro-Moesian calciphile stripped grasslands;
+6;R45341;Dinaric calciphile stripped grasslands;
+6;R45342;Pelago-Rhodopide calciphile stripped grasslands;
+7;R453421;Pelagonide calciphile stripped grasslands;
+7;R453422;Rhodopide Sesleria klasterskyi grasslands;
+6;R45343;Balkan Range calciphile stripped grasslands;
+6;R45344;Montenegrine Oxytropis grasslands;
+5;R4535;Balkan alpine and sub-alpine serpentine grasslands;
+2;R5;Forest fringes and clearings and tall forb stands ;
+4;R541;Sub-Atlantic Pteridium aquilinum fields;
+4;R542;Macaronesian Pteridium aquilinum fields;
+4;R543;Supra-Mediterranean Pteridium aquilinum fields;
+4;R551;Screens or veils of perennial tall herbs lining watercourses;
+5;R5511;Watercourse veils (other than of Filipendula);
+6;R55111;Angelica archangelica fluvial communities;
+6;R55112;Angelica heterocarpa fluvial communities;
+6;R55113;Althaea officinalis screens;
+5;R5512;Western nemoral river bank tall-herb communities dominated by Filipendula;
+5;R5513;Boreal river bank tall-herb communities dominated by Filipendula;
+5;R5514;Continental river bank tall-herb communities dominated by Filipendula;
+5;R5515;Eastern nemoral riverbanks with tall herb communities;
+4;R552;Tall-herb communities of humid meadows;
+5;R5521;Western nemoral tall-herb communities of humid meadows;
+5;R5522;Boreal tall-herb communities of humid depressions;
+5;R5523;Continental tall-herb communities of humid meadows;
+5;R5524;Eastern nemoral Tall-herb communities of humid meadows;
+4;R553;Shady woodland edge fringes;
+4;R554;Mediterranean grasslands on alluvial river banks;
+4;R561;Alpic tall-herb communities;
+5;R5611;Alpine tall herb communities;
+5;R5612;Jura tall herb communities;
+5;R5613;Hercynian tall herb communities;
+5;R5614;Carpathian tall herb communities;
+6;R56141;Carpathian adenostyles communities;
+6;R56142;Carpathian fern communities;
+6;R56143;Carpathian monkshood communities;
+7;R561431;North Carpathian monkshood communities;
+7;R561432;East Carpathian monkshood communities;
+6;R56144;Carpathian butterbur communities;
+7;R561441;Carpathian white butterbur communities;
+7;R561442;Carpathian glabrous butterbur communities;
+5;R5615;Dinaric tall herb communities;
+5;R5616;Apennine tall herb communities;
+4;R562;Alpic tall grass communities;
+5;R5621;Alpic tall-grass communities on siliceous substrates;
+5;R5622;Alpic tall-grass communities on carbonate substrates;
+5;R5623;Alpic tall-grass communities on drier and warmer slopes;
+4;R563;Pyreneo-Iberian tall-herb communities;
+4;R564;Ibero-Mauritanian tall-herb communities;
+5;R5641;Southern Iberian tall herb communities;
+4;R565;Corsican Cymbalaria tall-herb communities;
+4;R566;Corsican Doronicum tall-herb communities;
+4;R567;Eastern oro-Mediterranean and Balkan tall-herb communities;
+5;R5671;Hellenic tall herb communities;
+5;R5672;Moesian tall herb communities;
+6;R56721;Moesian Balkan thistle tall herb communities;
+6;R56722;Moesian butterbur tall herb communities;
+6;R56723;Moesian hogweed tall herb communities;
+6;R56724;Moesian scarlet avens tall herb communities;
+4;R568;Alpine Rumex communities;
+4;R569;Oro-boreal tall-herb communities;
+5;R5691;Roseroot-cranesbill-woodrush oroboreal communities;
+5;R5692;Oroboreal tall forb communities;
+5;R5693;Oroboreal tall grass and fern communities;
+4;R56A;Ponto-Caucasian tall-herb communities;
+4;R56B;Alpine and subalpine fern stands;
+3;R57;Herbaceous forest clearing vegetation;
+4;R571;Willowherb and foxglove clearings;
+4;R572;Burdock and deadly nightshade clearings;
+2;R6;Inland salt steppes and salt marshes;
+4;R611;Mediterranean Limonium salt steppes;
+5;R6111;Ibero-Tyrrhenian sea-lavender steppes;
+5;R6112;Adriatic sea-lavender steppes;
+5;R6113;Aegeo-Levantine sea-lavender communities;
+4;R612;Mediterranean Lygeum spartum salt steppes;
+4;R613;Mediterranean inland halo-nitrophilous pioneer communities;
+4;R621;Pannonic salt steppes and saltmarshes;
+5;R6211;Saline puszta;
+6;R62111;Grassy saline puszta;
+7;R621111;Northern grassy saline puszta;
+7;R621112;Southern grassy saline puszta;
+7;R621113;Agropyron saline puszta;
+6;R62112;Grassy psammo-saline puszta;
+6;R62113;Artemisia saline puszta;
+6;R62114;East Pannonic Petrosimonia-Artemisia salt steppes;
+6;R62115;Saline forest-edge meadow-steppe;
+6;R62116;East Pannonic Limonium-Artemisia salt steppes;
+5;R6212;Pannonic saline meadows;
+6;R62121;Pannonic bent-grass saline meadows;
+6;R62122;Pannonic Beckmannia saline meadows;
+6;R62123;Pannonic spikerush-foxtail saline meadows;
+6;R62124;Pannonic saltmarsh rush saline meadows;
+6;R62125;Pannonic divided sedge saline meadows;
+6;R62126;Dacian saline meadows;
+5;R6213;Pannonic solonetz hollows;
+6;R62131;Pannonic Puccinellia limosa hollows;
+6;R62132;Pannonic Camphorosma hollows;
+6;R62133;Pannonic Bassia sedoides hollows;
+6;R62134;Pannonic Pholiurus-Plantago hollows;
+6;R62135;Pannonic barley hollows;
+5;R6214;Pannonic solonchak hollows;
+6;R62141;Pannonic Lepidium-Puccinellia limosa hollows;
+6;R62142;Seewinkel Puccinellia peisonis swards;
+6;R62143;Pannonic Lepidium-Camphorosma hollows;
+6;R62144;Seewinkel Lepidium swards;
+5;R6215;Pelago-Vardarian salt steppes;
+6;R62151;Pelago-Vardarian saline meadows;
+6;R62152;Pelago-Vardarian solonetz hollows;
+6;R62153;Pelago-Vardarian Camphorosma monspeliaca flats;
+6;R62154;Central Paeonian salt steppes;
+4;R622;Ponto-Sarmatic salt steppes and saltmarshes;
+5;R6221;Western Pontic saline steppes;
+6;R62211;Western Pontic Achillea-Festuca steppes;
+6;R62212;Western Pontic Artemisia-Festuca steppes;
+6;R62213;Western Pontic Petrosimonia-Artemisia salt steppes;
+6;R62214;Western Pontic Peucedanum-Festuca salt steppes;
+6;R62215;Western Pontic Limonium-Artemisia salt steppes;
+5;R6222;Western Pontic saline meadows;
+6;R62221;Western Pontic Zingeria saline meadows;
+6;R62222;Western Pontic Beckmannia saline meadows;
+6;R62223;Western Pontic spikerush-foxtail saline meadows;
+6;R62224;Western Pontic saltmarsh rush saline meadows;
+6;R62225;Western Pontic divided sedge saline meadows;
+6;R62226;Western Pontic arrow-grass sea-aster saline meadows;
+6;R62227;Western Pontic tall grass and rush saline beds;
+5;R6223;Western Pontic solonetz hollows;
+6;R62231;Western Pontic Puccinellia solonetz swards;
+6;R62232;Western Pontic Camphorosma annua hollows;
+6;R62233;Western Pontic Bassia sedoides hollows;
+6;R62234;Western Pontic Pholiurus-Plantago hollows;
+6;R62235;Western Pontic Hordeum hystrix swards;
+5;R6224;Western Pontic solonchak communities;
+5;R6225;Western Pontic salt scrubs;
+5;R6226;Sarmatic saline steppes;
+6;R62261;Sarmatic Artemisia-Festuca salt steppes;
+6;R62262;Sarmatic Petrosimonia salt steppes;
+6;R62263;Sarmatic Limonium-Festuca salt steppes;
+5;R6227;Sarmatic saline meadows;
+6;R62271;Sarmatic Beckmannia eruciformis saline meadows;
+6;R62272;Sarmatic Leuzea altaica saline meadows;
+6;R62273;Sarmatic Iris halophila saline meadows;
+6;R62274;Sarmatic Juncus gerardii saline meadows;
+6;R62275;Sarmatic Carex distans saline meadows;
+5;R6228;Sarmatic solonetz hollows;
+5;R6229;Sarmatic solonchak hollows;
+4;R623;Central Eurasian solonchak grassland with Crypsis;
+5;R6231;Ponto-Pannonic Acorellus community;
+5;R6232;Pontic Frankenia pulverulenta communities;
+4;R624;Central Balkan salt steppes and saltmarshes;
+4;R631;Interior European Puccinellia distans meadows;
+4;R632;Interior European saltmarsh Juncus gerardi and Elymus repens beds;
+4;R633;Interior European Halimione pedunculata beds;
+4;R634;Interior Iberian Microcnemum and Salicornia swards;
+5;R6341;Iberian Microcnemum swards;
+5;R6342;Iberian interior Salicornia swards;
+4;R635;Interior central European and Anatolian Salicornia, Microcnemum, Suaeda and Salsola swards;
+5;R6351;Pannonic glasswort-seablite-saltwort swards;
+6;R63511;Pannonic glasswort swards;
+6;R63512;Pannonic seablite swards;
+6;R63513;Pannonic saltwort communities;
+6;R63514;Pelagonian seablite swards;
+5;R6352;Western Pontic glasswort-seablite-saltwort swards;
+5;R6353;Central Eurasian glasswort swards;
+4;R636;Western European continental glasswort beds;
+4;R637;Interior European saltmarsh Carex divisa and Carex distans beds;
+3;R64;Semi-desert salt pan;
+3;R65;Continental subsaline alluvial pasture and meadow;
+2;R7;Sparsely wooded grasslands ;
+1;T;Forest and other wooded land;
+2;T1;Deciduous broadleaved forest;
+3;T1H;Broadleaved deciduous plantation of non site-native trees;
+3;T1J;Deciduous self sown forest of non site-native trees;
+3;T1K;Broadleaved deciduous plantation of site-native trees;
+2;T2;Broadleaved evergreen forest;
+3;T29;Broadleaved evergreen plantation of non site-native trees;
+3;T2A;Broadleaved evergreen plantation of site-native trees;
+2;T3;Coniferous forest;
+3;T3H;Larix light taiga;
+3;T3L;Coniferous self sown forest of non site-native trees;
+3;T3M;Coniferous plantation of non site-native trees;
+3;T3N;Coniferous plantation of site-native trees;
+2;T4;Lines of trees, small anthropogenic forests, recently felled forest, early-stage forest and coppice;
+3;T41;Early-stage natural and semi-natural forest and regrowth;
+3;T42;Coppice and early stage plantations;
+3;T43;Recently felled areas;
+1;S;Heathland, scrub and tundra;
+2;S1;Tundra;
+2;S2;Arctic, alpine and subalpine scrub;
+3;S27;Krummholz with conifers other than Pinus mugo;
+2;S3;Temperate and mediterranean-montane scrub;
+3;S38;Temperate forest clearing scrub;
+2;S4;Temperate shrub heathland;
+2;S5;Maquis, arborescent matorral and thermo-Mediterranean scrub;
+3;S53;Spartium junceum scrub;
+2;S6;Garrigue;
+3;S64;Macaronesian garrigue;
+3;S67;Aralo-Caspian semi-desert;
+3;S68;Semi-desert sand dune with sparse scrub;
+2;S7;Spiny Mediterranean heaths (phrygana, hedgehog-heaths and related coastal cliff vegetation) ;
+2;S8;Thermo-Atlantic xerophytic scrub;
+2;S9;Riverine and fen scrubs;
+3;S94;Semi-desert riparian scrub;
+1;U;Inland habitats with no or little soil and mostly with sparse vegetation;
+2;U1;Terrestrial underground caves, cave systems, passages and waterbodies ;
+4;U111;Troglobiont vertebrate caves;
+5;U1111;Proteus anguinus caves;
+5;U1112;Troglobiont fish caves;
+4;U112;Subtroglophile vertebrate caves;
+5;U1121;Continental subtroglophile vertebrate caves;
+5;U1122;Insular subtroglophile vertebrate caves;
+4;U113;Troglobiont invertebrate caves;
+5;U1131;Troglobiont invertebrate temperate caves;
+5;U1132;Troglobiont invertebrate ice caves;
+5;U1133;Troglobiont invertebrate hydrothermal caves;
+5;U1134;Troglobiont invertebrate sulphur caves;
+4;U114;Troglophile invertebrate caves;
+4;U115;Subtroglophile invertebrate caves;
+4;U116;Caves without vertebrates or invertebrates;
+4;U117;Lava tubes;
+5;U1171;Icelandic lava tubes;
+5;U1172;Macaronesian lava tubes;
+5;U1173;Tethyan lava tubes;
+3;U12;Disused underground mines and tunnels;
+2;U2;Screes;
+4;U221;Alpine siliceous screes;
+5;U2211;Mountain sorrel screes;
+6;U22111;Alpine mountain sorrel screes;
+6;U22112;Southwestern Alpine mountain sorrel screes;
+6;U22113;Pyrenean mountain sorrel screes;
+6;U22114;Corsican mountain sorrel screes;
+6;U22115;Carpathian mountain sorrel screes;
+6;U22116;Rhodopide mountain sorrel screes;
+5;U2212;Rock jasmine screes;
+5;U2213;Brown woodrush screes;
+6;U22131;Alpine woodrush screes;
+6;U22132;Carpathian woodrush screes;
+6;U22133;Rhodopide woodrush screes;
+5;U2214;Cold silicate block screes;
+5;U2215;Carpatho-Balkanic saxifrage-speedwell-ragwort screes;
+6;U22151;Rhodopide ragwort screes;
+6;U22152;Carpathian saxifrage-speedwell acidophilous screes;
+5;U2216;Painted fescue screes;
+4;U222;Medio-European upland siliceous screes;
+4;U223;Southeast European mountain siliceous screes;
+4;U231;Pyreneo-Alpine thermo-siliceous screes;
+4;U232;Oro-Cantabrian siliceous screes;
+4;U233;Ibero-Pyrenean acidophile fern screes;
+4;U234;Carpetano-Iberian siliceous screes;
+4;U235;Nevadan siliceous screes;
+5;U2351;Nevadan foxglove screes;
+5;U2352;Nevadan violet screes;
+3;U24;Mediterranean siliceous scree;
+4;U241;Central Mediterranean siliceous screes;
+4;U242;Anatolian siliceous screes;
+4;U243;Southeast European thermo-siliceous screes;
+4;U261;Alpine calcschist screes;
+4;U262;Thlaspi rotundifolium screes;
+4;U263;Fine calcareous screes;
+5;U2631;Butterbur screes;
+5;U2632;Mountain hawkbit screes;
+4;U264;Carpathian calcareous screes;
+5;U2641;West Carpathian calcareous screes;
+5;U2642;East Carpathian calcareous screes;
+4;U265;Rhodopide calcareous screes;
+4;U271;Peri-Alpine thermophilous screes;
+5;U2711;Rough-grass screes;
+5;U2712;Submontane calcareous screes;
+6;U27121;Hemp-nettle screes;
+6;U27122;French sorrel screes;
+6;U27123;Limestone fern screes;
+6;U27124;Vincetoxicum screes;
+5;U2713;Paris Basin screes;
+4;U272;Eastern Carpathian calcareous thermophilous screes;
+4;U281;Cevenno-Provençal screes;
+4;U282;Pyrenean calcareous screes;
+4;U283;Oro-Cantabrian calcareous screes;
+4;U284;Iberian calciphile fern screes;
+4;U285;Southern Iberian calcareous screes;
+4;U286;Central Mediterranean calcareous screes;
+4;U291;Eastern Mediterranean limestone screes;
+4;U292;Eastern Mediterranean serpentine screes;
+4;U293;Cyprian screes;
+4;U294;Illyrian montane calcareous screes;
+5;U2941;Illyrian fern screes;
+5;U2942;Illyrian butterbur screes;
+5;U2943;Illyrian drypis screes;
+5;U2944;Illyrian candytuft screes;
+5;U2945;Illyrian toadflax screes;
+5;U2946;Illyrian mouse-ear screes;
+5;U2947;Illyrian geranium screes;
+5;U2948;Pelagonide toadflax-valerian screes;
+4;U295;Illyrian sub-Mediterranean screes;
+4;U296;Illyrian montane serpentine screes;
+4;U297;Illyrian Achnatherum calamagrostis screes;
+4;U298;Anatolian calcareous screes;
+3;U2A;Crimean base-rich screes;
+2;U3;Inland cliffs, rock pavements and outcrops ;
+4;U311;Boreal siliceous cliffs;
+4;U312;Bare boreal and arctic siliceous inland cliff;
+5;U3121;Arctic siliceous cliffs;
+5;U3122;Boreal and Arctic mountain siliceous cliffs;
+5;U3123;Boreo-nemoral and boreal siliceous cliffs;
+4;U313;Boreal and arctic disused siliceous quarries;
+4;U321;Middle European siliceous cliffs of the sub-alpine, alpine and nival zones of temperate high-mountains ;
+5;U3211;Middle European high-altitude siliceous cliffs;
+5;U3212;Hercynio-Alpine serpentine cliffs;
+4;U322;Bare temperate high-mountain siliceous inland cliff;
+5;U3221;Temperate high altitude siliceous cliffs;
+5;U3222;Temperate high mountain siliceous cliffs;
+4;U323;Temperate high-mountain disused siliceous quarries;
+4;U331;Middle European lowland to montane siliceous cliffs;
+5;U3311;Hercynio-Alpine montane and collinar siliceous cliffs;
+5;U3312;Carpathian montane siliceous cliffs;
+4;U332;Helleno-Carpatho-Balkanic Silene siliceous cliffs;
+5;U3321;Southern Carpathian campion siliceous cliffs;
+5;U3322;Carpatho-Balkano-Rhodopide campion siliceous cliffs;
+5;U3323;Pelagonide campion siliceous cliffs;
+4;U333;Lowland northern- and middle-European siliceous cliffs;
+4;U334;Bare temperate lowland to montane siliceous inland cliff;
+4;U335;Temperate lowland to montane disused siliceous quarries;
+4;U341;Oro-Iberian siliceous cliffs;
+5;U3411;Ibero-Carpetanian siliceous cliffs;
+5;U3412;Nevadan siliceous cliffs;
+4;U342;Southwestern Alpine siliceous cliffs;
+4;U343;Cyrno-Sardinian montane and alpine cliffs;
+4;U344;Peri-Pyrenean montane siliceous cliffs;
+4;U345;Western Iberian siliceous cliffs;
+4;U346;West Mediterranean thermophile siliceous cliffs;
+4;U347;Bare Mediterranean siliceous inland cliff;
+4;U348;Mediterranean disused siliceous quarries;
+4;U351;Boreal calcareous cliff communities;
+4;U352;Boreal and arctic bare limestone inland cliffs;
+4;U353;Boreal and arctic disused chalk and limestone quarries;
+4;U361;Central Pyrenean calcicolous chasmophyte communities;
+4;U362;Liguro-Apennine calcicolous chasmophyte communities;
+4;U363;Alpine and sub-mediterranean chasmophyte communities;
+5;U3631;Alpine calcareous cliff heliophile communities;
+5;U3632;Middle-European calcareous fern cliffs;
+5;U3633;Carpathian calcareous cliff heliophile communities;
+4;U364;Temperate high-mountain bare limestone inland cliffs;
+4;U365;Temperate high-mountain disused chalk and limestone quarries;
+4;U371;Illyrio-Helleno-Balkanic Potentilla cliffs;
+5;U3711;Helleno-Balkanic calcicolous chasmophyte communities;
+6;U37111;Pelagonide calcicolous chasmophyte communities;
+6;U37112;Rhodopide calcicolous chasmophyte communities;
+7;U371121;Pirin calcicolous chasmophyte communities;
+7;U371122;Rila calcicolous chasmophyte communities;
+7;U371123;Rhodope calcicolous chasmophyte communities;
+6;U37113;Balkan Range calcicolous chasmophyte communities;
+7;U371131;Balkan range ramonda cliffs;
+7;U371132;Vrachansky karst chasmophyte communities;
+5;U3712;Dinaro-Carpathian calcicolous chasmophyte communities;
+5;U3713;Moist Dinaric calcicolous chasmophyte communities;
+5;U3714;Balkano-Illyrian shaded calcicolous chasmophyte communities;
+4;U372;Lowland middle European calcareous cliff communities;
+4;U373;Temperate, lowland to montane bare limestone inland cliffs;
+5;U3731;Nemoral low altitude limestone cliffs;
+4;U374;Temperate, lowland to montane disused chalk and limestone quarries;
+4;U381;Tyrrheno-Adriatic eumediterranean calcicolous chasmophyte communities;
+5;U3811;Petrarch-spleenwort cliffs;
+5;U3812;Southeastern Iberian chasmophyte communities;
+5;U3813;Balearic calcareous chasmophyte communities;
+5;U3814;Insular cabbage cliffs;
+6;U38141;West-Mediterranean polypode cliffs;
+5;U3815;Sicilo-Italic Dianthus cliffs;
+5;U3816;Illyrian chasmophyte communities;
+6;U38161;Istrio-Triestine karst chasmophyte communities;
+7;U381611;Karst knapweed cliffs;
+7;U381612;Istrio-Triestine spurge cliffs;
+7;U381613;Istrio-Triestine moehringia cliffs;
+6;U38162;Liburnian chasmophyte communities;
+7;U381621;Dalmatian knapweed cliffs;
+7;U381622;Austrian viper's grass cliffs;
+6;U38163;Dalmatian chasmophyte communities;
+7;U381631;Raguse knapweed cliffs;
+7;U381632;Moltkia cliffs;
+7;U381633;Centaurea cuspidata cliffs;
+6;U38164;Vardean chasmophyte communities;
+6;U38165;Dalmatian fern-navelwort cliffs;
+5;U3817;Ibero-montane cinquefoil cliffs;
+6;U38171;Oro-Cantabrian calcareous cliffs;
+6;U38172;Baetic calcareous cliffs;
+6;U38173;Valencian calcareous cliffs;
+4;U382;Western mediterraneo-montane chasmophyte communities;
+4;U383;Hellenic eumediterranean calcicolous chasmophyte communities;
+4;U384;Aegeo-east-Mediterranean base-rich inland chasmophyte communities;
+5;U3841 ;Cretan chasmophyte communities;
+6;U38411;Western Cretan chasmophyte communities;
+6;U38412;Eastern Cretan chasmophyte communities;
+6;U38413;High-altitude Cretan chasmophyte communities;
+5;U3842;Karpathos chasmophyte communities;
+5;U3843;Eastern Aegean chasmophyte communities;
+5;U3844;Cyclades chasmophyte communities;
+5;U3845;Northern Sporades chasmophyte communities;
+5;U3846;Cyprian chasmophyte communities;
+6;U38461;Kyrenia chasmophyte communities;
+6;U38462;Troodos limestone chasmophyte communities;
+6;U38463;Kythrean chasmophyte communities;
+4;U385;Southern Hellenic Potentilla cliffs;
+4;U386;Central Hellenic Potentilla cliffs;
+4;U387;Mediterranean bare limestone inland cliffs;
+5;U3871;Mediterranean mountain limestone cliffs;
+4;U388;Mediterraneo-Anatolian calcicolous chasmophyte communities;
+4;U389;Mediterranean disused chalk and limestone quarries;
+4;U391;Boreal and arctic serpentine and basaltic cliff communities;
+4;U392;Boreal bare inland basaltic and ultra-basic cliffs;
+5;U3921;Boreal high altitude basaltic and ultra-basic cliffs;
+5;U3922;Boreal mountain basaltic and ultra-basic cliffs;
+4;U3A1;Tempearate bare inland basaltic and ultra-basic cliffs;
+5;U3A11;Temperate high altitude basaltic and ultra-basic cliffs;
+5;U3A12;Temperate mountain basaltic and ultra-basic cliffs;
+5;U3A13;Nemoral low altitude basaltic and ultra-basic cliffs;
+4;U3A2;Temperate serpentine and basaltic cliff communities;
+4;U3B1;Aegeo-east-Mediterranean ultramafic chasmophyte communities;
+5;U3B11;Troodos serpentine chasmophyte communities;
+4;U3B2;Mediterranean bare inland basaltic and ultra-basic cliffs;
+5;U3B21;Mediterranean basaltic and ultra-basic cliffs;
+4;U3B3;Mediterranean serpentine and basaltic cliff communities;
+4;U3D1 ;Mediterranean wet inland cliffs;
+4;U3D2;Northern wet inland cliffs;
+4;U3D3;Illyrio-Helleno-Balkanic wet carbonate cliffs;
+2;U4;Snow or ice-dominated habitats ;
+4;U421;Ice sheets and ice caps;
+4;U422;Cirque and valley glaciers;
+4;U423;Glacierets;
+4;U431;Rock glaciers;
+4;U432;Ice-core moraines;
+4;U433;Unvegetated glacial moraines in the process of formation;
+2;U5;Miscellaneous inland habitats usually with very sparse or no vegetation ;
+4;U531;Unvegetated young glacial moraines;
+4;U532;Sparsely vegetated glacial moraines;
+2;U6;Recent volcanic features ;
+4;U611;Icelandic solfataras;
+4;U612;Subarctic barren lava fields and flows;
+5;U6121;Barren Icelandic lava flows;
+4;U613;Subarctic volcanic ash and lapilli fields;
+4;U621;Italian fumaroles;
+4;U622;Sicilian fumaroles;
+4;U623;Pantelleria fumaroles;
+4;U624;Macaronesian fumaroles;
+4;U625;East Mediterranean fumaroles and solfataras;
+4;U626;Peri-Alpine fumaroles, solfataras and mofettes;
+4;U627;Western Asian fumaroles and solfataras;
+4;U628;Teide violet community;
+4;U629;Etna summital communities;
+4;U62A;Western Asian orovolcanic communities;
+4;U62B;Mediterranean, Macaronesian and temperate barren lava fields and flows;
+5;U62B1;Barren Macaronesian lava flows;
+5;U62B2;Barren Tethyan lava flows;
+4;U62C;Mediterranean, Macaronesian and temperate volcanic ash and lapilli fields;
+1;V;Vegetated man-made habitats;
+2;V1;Arable land and market gardens;
+3;V11;Intensive unmixed crops;
+4;V111;Large-scale intensive unmixed crops (>25ha);
+4;V112;Medium-scale intensive unmixed crops (1-25ha);
+4;V113;Small-scale intensive unmixed crops (<1ha);
+3;V12;Mixed crops of market gardens and horticulture;
+4;V121;Large-scale market gardens and horticulture;
+4;V122;Small-scale market gardens and horticulture, including allotments;
+3;V14;Inundated or inundatable croplands, including rice fields;
+3;V15;Bare tilled, fallow or recently abandoned arable land;
+4;V151;Bare tilled land;
+4;V152;Fallow un-inundated fields with annual weed communities;
+4;V153;Fallow un-inundated fields with annual and perennial weed communities;
+4;V154;Fallow inundated fields with annual weed communities;
+4;V155;Fallow inundated fields with annual and perennial weed communities;
+2;V2;Cultivated areas of gardens and parks ;
+3;V21;Large-scale ornamental garden areas;
+4;V211;Park flower beds, arbours and shrubbery;
+4;V212;Botanical gardens;
+3;V22;Small-scale ornamental and domestic garden areas;
+4;V221;Ornamental garden areas;
+4;V222;Subsistence garden areas;
+4;V223;Small parks and city squares;
+3;V23;Recently abandoned garden areas;
+2;V3;Artificial grasslands and herb dominated habitats;
+3;V31;Agriculturally-improved, re-seeded and heavily fertilised grassland, including sports fields and grass lawns;
+4;V311;Dry or moist agriculturally-improved grassland;
+4;V312;Wet agriculturally-improved grassland, often with drainage ditches;
+4;V313;Turf sports fields;
+4;V314;Park lawns;
+4;V315;Small-scale lawns;
+3;V32;Mediterranean subnitrophilous annual grasslands;
+4;V321;Mediterranean subnitrophilous grass communities;
+4;V322;Meseta subnitrophilous crucifer communities;
+4;V323;Iberian southeastern subnitrophilous herb communities;
+4;V324;Eastern Mediterranean subnitrophilous herb communities;
+3;V33;Dry mediterranean lands with unpalatable non-vernal herbaceous vegetation ;
+4;V331;Asphodelus fields ;
+4;V332;Thistle fields ;
+4;V333;Phlomis brushes ;
+4;V334;Ferula stands ;
+3;V34;Trampled xeric grasslands with annuals;
+3;V35;Trampled mesophilous grasslands with annuals;
+3;V36;Alpine and subalpine enriched grassland;
+4;V361;Subalpine Trisetum flavescens hay meadows;
+4;V362;Leontodon hispidus pastures;
+4;V363;Dinaric sub-alpine tall grasslands;
+3;V37;Annual anthropogenic herbaceous vegetation;
+4;V371;Weed communities of recently abandoned urban and suburban constructions;
+4;V372;Weed communities of recently abandoned rural constructions;
+4;V373;Weed communities of recently abandoned extractive industrial sites;
+4;V374;Land reclamation forb fields;
+3;V38;Dry perennial anthropogenic herbaceous vegetation;
+3;V39;Mesic perennial anthropogenic herbaceous vegetation;
+4;V391;Lowland habitats colonised by tall nitrophilous herbs;
+2;V4;Hedgerows ;
+3;V41;Hedgerows of non-native species ;
+3;V42;Highly-managed hedgerows of native species ;
+3;V43;Species-rich hedgerows of native species ;
+3;V44;Species-poor hedgerows of native species;
+2;V5;Shrub plantations ;
+3;V51;Shrub plantations for whole-plant harvesting;
+3;V52;Shrub plantations for leaf or branch harvest;
+4;V521;Tea plantations;
+4;V522;Osier beds;
+3;V53;Shrub plantations for ornamental purposes or for fruit, other than vineyards;
+4;V531;Shrub and low-stem tree orchards;
+4;V532;Ornamental shrub plantations;
+3;V54;Vineyards;
+4;V541;Traditional vineyards;
+4;V542;Intensive vineyards;
+2;V6;Tree dominated man-made habitats;
+3;V61;Broadleaved fruit and nut tree orchards;
+4;V611;Castanea sativa plantations;
+4;V612;Juglans groves;
+4;V613;Prunus amygdalus groves;
+4;V614;Fruit orchards;
+4;V615;Other high-stem orchards;
+3;V62;Evergreen orchards and groves;
+4;V621;Olea europaea groves;
+4;V622;Citrus orchards;
+4;V623;Phoenix plantations;
+4;V624;Other evergreen orchards;
+3;V63;Lines of planted trees;
+3;V64;Small deciduous broadleaved planted other wooded land ;
+3;V65;Small evergreen broadleaved planted other wooded land ;
+3;V66;Small coniferous planted other wooded land ;
