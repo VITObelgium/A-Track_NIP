@@ -1,12 +1,12 @@
-"""User settings for all Ecosystem_* scripts (extent, transformations, conversion, connectivity) - adjust the paths and
-options below, then run the scripts."""
+"""User settings for all metrics and download scripts - check the paths and options below, then run the modules in
+Metrics_scripts as described in README.md."""
 from pathlib import Path
 
 # ==========================================================================
 # SETUP - Define paths and settings here
 # ==========================================================================
 
-# Working folder: the folder of this script (inputs are read from demo_input_data, outputs go to outputs). No need to
+# Working folder: the folder of this script (inputs are read from Demo_input_data, outputs go to outputs). No need to
 # change it; to use data or outputs elsewhere, change the paths below.
 base_dir = Path(__file__).resolve().parent
 # Choose a site buffer size in meters for analysis: between 0 (no buffer, default) and 500
@@ -14,13 +14,13 @@ buffer_size_m = 0
 
 ############################################################################
 ### Input data - the following is configured for running the A-Track D2.2b demo with the provided data
-inputs = base_dir / "demo_input_data"
+inputs = base_dir / "Demo_input_data"
 # Site polygon (shp or gpkg)
-site_polygon_path = inputs / "Site_polygon.gpkg"
+site_polygon_path = inputs / "Demo_site" / "Demo_site_polygon.gpkg"
 
 # Habitat map rasters (tif, single band, EUNIS level 3 here, for 2021 & 2024)
-raster_opening_path = inputs / "y2021_lvl3_500m.tif"
-raster_closing_path = inputs / "y2024_lvl3_500m.tif"  # set to None to analyse the opening year only
+raster_opening_path = inputs / "Demo_site" / "DemoHabitat_y2021_EUNISlvl3_buffered.tif"
+raster_closing_path = inputs / "Demo_site" / "DemoHabitat_y2024_EUNISlvl3_buffered.tif"  # None: opening year only
 
 # EUNIS level of the site habitat maps. Ecosystem_extent, Extent_transformations and Ecosystem_conversion need level 3
 # maps; Ecosystem_connectivity and Grassland_productivity also work with coarser maps (down to the habitat level).
@@ -31,7 +31,7 @@ pixel_resolution_m = None  # e.g., 10 for 10m resolution
 
 # Lookup table (csv) with one row per class on levels 1, 2 and 3. The level 3 rows link the map's raster values to
 # codes; rows of all levels provide the names for the level 1, 2 and 3 output tables.
-lut_path = inputs / "site_lut.csv"
+lut_path = inputs / "Demo_lookup_tables" / "LUT_EUNIS_GET_demo.csv"
 lut_separator = ";"
 lut_value_column = "rasterValue"
 lut_code_column = "EUNIS2021plus_Code"
@@ -39,7 +39,7 @@ lut_name_column = "EUNIS2021plus_Name"
 lut_level_column = "EUNIS2021plus_Level"
 
 # QGIS style file (.qml, paletted raster) with the class colours, used for the jpg maps (set to None to skip the jpgs)
-legend_qml_path = inputs / "EUNIS2021plus_legend_lvl3_subset.qml"
+legend_qml_path = inputs / "EUNIS_map_legend_lvl3_demo.qml"
 
 ### Outputs - every script writes to its own subfolder of the outputs folder
 output_dir = base_dir / "outputs"
@@ -57,7 +57,7 @@ year_labels = ("2021", "2024")
 ############################################################################
 ### Extent_transformations.py
 # EUNIS threat status table (csv) and its settings
-threat_csv = inputs / "EUNIS_threatStatus.csv"
+threat_csv = inputs / "Demo_lookup_tables" / "LUT_EUNIS_RedList_demo.csv"
 threat_separator = ";"
 threat_encoding = "latin-1"
 threat_code_column = "Code"
@@ -128,8 +128,8 @@ productivity_buffer_m = 500
 
 # Reference site: polygon and habitat maps (opening, closing; same LUT as the site). Set the maps to None to skip it.
 ref_site_label = "Peak District Dales"
-ref_polygon_path = inputs / "UKNSN" / "Peake_district_dales32630.gpkg"
-ref_raster_opening_path = inputs / "UKNSN" / "RefHabitat_y2021_EUNISlvl2.tif"
-ref_raster_closing_path = inputs / "UKNSN" / "RefHabitat_y2024_EUNISlvl2.tif"
+ref_polygon_path = inputs / "Reference_site" / "Peake_district_dales32630.gpkg"
+ref_raster_opening_path = inputs / "Reference_site" / "RefHabitat_y2021_EUNISlvl2.tif"
+ref_raster_closing_path = inputs / "Reference_site" / "RefHabitat_y2024_EUNISlvl2.tif"
 # EUNIS level of the reference site habitat maps (must be at least productivity_code_level)
 ref_raster_level = 2
