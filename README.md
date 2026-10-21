@@ -1,10 +1,11 @@
-# A-Track
+# A-Track Nature Information Pathways demo
 
-Tools and demonstration material from the A-Track project for structuring nature data along a Nature Information
-Pathway (NIP).
+Demonstration material from the EU Horizon A-Track project Deliverable D2.2b - Top-down demonstration of a Nature Information Pathway (Case 1) 
+
+This repository contains scripts, input data and instructions for users to replicate the demonstration, for a hands-on experience in generating business-relevant ecosystem extent and condition metrics following a Nature Information Pathway (NIP).
 
 > **Please read [IMPORTANT_READ_FIRST.md](NPI_top_down_demo/IMPORTANT_READ_FIRST.md) before using
-> anything here.** The scripts are for demonstration only, and the input maps are experimental.
+> anything here.** The scripts and the input maps are experimental and under development.
 
 ## Contents
 
