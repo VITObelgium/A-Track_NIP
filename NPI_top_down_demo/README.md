@@ -231,6 +231,21 @@ The demo uses tiles T30UWD and T30UWE for 2021 and 2024; the bounding-box search
 Allow disk space for the raw downloads and derived rasters. Downloads go to `Demo_input_data\TPROD` by default,
 which is ignored by Git.
 
+### Optional graphical tools for exploring data
+
+If you prefer a graphical interface to explore your site and available satellite or land-monitoring data:
+
+- **[vresto](https://github.com/kalfasyan/vresto)** provides an interactive satellite-data browser for searching,
+  viewing and downloading supported products. Follow its
+  [installation and setup guide](https://kalfasyan.github.io/vresto/getting-started/setup/);
+  use a separate environment to keep the A-Track demo dependencies unchanged.
+- **[Copernicus Land Monitoring Service map viewer](https://land.copernicus.eu/en/map-viewer)** provides a
+  browser-based graphical interface for exploring CLMS products, without installing a local application.
+
+These are optional exploration tools, not required steps in the demo. The scripted TPROD download above remains
+the recommended route for reproducing the productivity example. In particular, vresto's Dry Matter Productivity
+overlay is a different product from the **10 m HR-VPP season-1 TPROD** tiles used here; it is not a substitute.
+
 ## Outputs and what to look for
 
 Each analysis script creates its own subfolder under `NPI_top_down_demo\outputs`:
