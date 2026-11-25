@@ -1,29 +1,53 @@
-# PolyForm Noncommercial License 1.0.0
+# Licence for Software and Scripts
 
-**Required Notice: Copyright © 2026 VITO.**
+Required Notice: Copyright © 2026 VITO.
 
-This license applies to the Python scripts contained in this repository, unless otherwise indicated.
+## 1. Scope
 
-The software is made available under the **PolyForm Noncommercial License 1.0.0**.
+The following materials in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**:
 
-The full license terms are available at:
+- Python scripts and source code
+- Associated software and code files
+- Other software-related materials, unless otherwise indicated
 
-https://polyformproject.org/licenses/noncommercial/1.0.0
+**Licensor and rights holder:** VITO
 
-By using, copying, modifying or distributing this software, you agree to the terms of the PolyForm Noncommercial License 1.0.0.
+## 2. Licence
 
-Commercial use is not permitted under this license. For commercial licensing or permissions beyond those granted by this license, please contact VITO.
+**PolyForm Noncommercial License 1.0.0**
 
-## Attribution of Outputs
+[View the full licence](https://polyformproject.org/licenses/noncommercial/1.0.0)
 
-Where the Software, or a modified version of the Software, is used to produce, generate or materially contribute to an output that is publicly distributed or published, the user must acknowledge VITO as the source of the Software.
+Under this licence, you may use, copy, modify and redistribute the software for permitted non-commercial purposes, subject to the terms and conditions of the licence.
 
-The acknowledgement should be included in the output itself, or in an accompanying document, report, publication or other appropriate attribution statement.
+The licence does not permit commercial use. However, please note that the PolyForm Noncommercial License explicitly considers use by certain organisations, including educational institutions, public research organisations and government institutions, to be permitted non-commercial use, regardless of their funding sources or funding obligations.
+
+Anyone redistributing the software, including modified versions, must ensure that recipients also receive the licence terms or a link to them, together with the applicable `Required Notice:` lines.
+
+The full terms and conditions are set out in the official licence linked above.
+
+## 3. Attribution of Outputs
+
+Where the software, or a modified version of the software, is used to produce, generate or materially contribute to an output that is publicly distributed or published, VITO must be acknowledged as the source of the software.
+
+The acknowledgement should be included in the output itself or in an accompanying document, report, publication or other appropriate attribution statement.
 
 Suggested acknowledgement:
 
-"Software developed by VITO. Licensed under the PolyForm Noncommercial License 1.0.0."
+"Software developed by VITO and made available under the PolyForm Noncommercial License 1.0.0."
 
-This attribution requirement applies in addition to the notice and redistribution requirements of the PolyForm Noncommercial License 1.0.0.
+This attribution requirement is an additional condition specified by VITO and applies in addition to the requirements of the PolyForm Noncommercial License 1.0.0.
 
-For commercial use or permissions beyond those granted by this licence, please contact VITO.
+## 4. Requests for Additional Permissions
+
+If you wish to use the software for commercial purposes, or request permissions beyond those granted by this licence, please contact VITO.
+
+VITO may consider granting additional permissions on a case-by-case basis. Any additional permission must be agreed in writing by VITO.
+
+**Contact:** alexandra.evans@vito.be; vito@vito.be
+
+## 5. Third-Party Materials
+
+This licence does not override any third-party rights, licences or data-use restrictions applicable to underlying datasets, libraries, software or other incorporated materials.
+
+Users are responsible for checking and complying with any additional conditions that may apply to third-party materials.
