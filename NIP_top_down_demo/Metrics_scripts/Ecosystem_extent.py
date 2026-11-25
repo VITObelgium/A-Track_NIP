@@ -1,4 +1,4 @@
-"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See IMPORTANT_READ_FIRST.md before use.
+"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See LIMITATIONS_AND_CAVEATS.md before use.
 
 Ecosystem extent (step 1.3, Ecosystem extent): the area (ha) of each EUNIS class in the site, for the opening and
 closing year.

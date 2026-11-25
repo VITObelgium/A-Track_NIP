@@ -1,4 +1,4 @@
-"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See IMPORTANT_READ_FIRST.md before use.
+"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See LIMITATIONS_AND_CAVEATS.md before use.
 
 Ecosystem conversion (step 1.4, Conversion of one ecosystem type to another): where did the priority ecosystems go
 between the opening and closing habitat maps.

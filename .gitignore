@@ -6,5 +6,5 @@ __pycache__/
 # outputs are created by running the scripts
 outputs/
 # large Copernicus TPROD tiles are downloaded with Download_TPROD.py
-NPI_top_down_demo/Demo_input_data/TPROD/
+NIP_top_down_demo/Demo_input_data/TPROD/
 *.aux.xml

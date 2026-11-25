@@ -1,4 +1,4 @@
-"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See IMPORTANT_READ_FIRST.md before use.
+"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See LIMITATIONS_AND_CAVEATS.md before use.
 
 Extent transformations (step 1.4, Transformation of extent data for ecosystem overviews): summary plots of the
 extent tables.

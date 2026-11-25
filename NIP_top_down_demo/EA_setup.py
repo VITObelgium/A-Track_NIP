@@ -1,5 +1,5 @@
 """User settings for all metrics and download scripts - check the paths and options below, then run the modules in
-Metrics_scripts as described in README.md."""
+Metrics_scripts as described in the repository's README.md."""
 from pathlib import Path
 
 # ==========================================================================

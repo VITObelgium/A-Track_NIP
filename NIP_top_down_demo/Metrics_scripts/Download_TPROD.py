@@ -1,4 +1,4 @@
-"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See IMPORTANT_READ_FIRST.md before use.
+"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See LIMITATIONS_AND_CAVEATS.md before use.
 
 Download the Copernicus HR-VPP Total Productivity (TPROD) tiles needed by Grassland_productivity.py (run this first).
 

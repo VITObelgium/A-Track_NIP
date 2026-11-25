@@ -1,4 +1,4 @@
-"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See IMPORTANT_READ_FIRST.md before use.
+"""DEMONSTRATION ONLY: tailored to one site/case, experimental input maps. See LIMITATIONS_AND_CAVEATS.md before use.
 
 Ecosystem connectivity (step 1.4, Assessing habitat connectivity): connectivity of the priority habitat patches
 (grassland by default) as an ecosystem condition indicator, for the opening and closing year.

@@ -98,7 +98,7 @@ def main(argv=None):
                         help="also require readable TPROD tile files for each configured year")
     args = parser.parse_args(argv)
     print(f"Python: {sys.version.split()[0]}\nInterpreter: {sys.executable}")
-    print("Read IMPORTANT_READ_FIRST.md before using this demonstration.")
+    print("Read ../LIMITATIONS_AND_CAVEATS.md before using this demonstration.")
     demo_dir = Path(__file__).resolve().parent
     results = check_dependencies(demo_dir / "requirements.txt")
     try:

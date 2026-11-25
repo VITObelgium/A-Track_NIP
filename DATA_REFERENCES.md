@@ -1,7 +1,8 @@
 # Data references and licences
 
 All data used by the demo come from third parties or from VITO's mapping pipeline. Please cite the sources below and
-check each licence yourself before redistributing anything. See also [IMPORTANT_READ_FIRST.md](IMPORTANT_READ_FIRST.md).
+check each licence yourself before redistributing anything. See also [IMPORTANT_READ_FIRST.md](LIMITATIONS_AND_CAVEATS.md).
+File paths below are relative to the [`NIP_top_down_demo`](NIP_top_down_demo) folder.
 
 ## 1. Habitat (ecosystem) maps - `Bent Farm` site (EUNIS levels 1-3, 2021 and 2024)
 
@@ -42,7 +43,7 @@ check each licence yourself before redistributing anything. See also [IMPORTANT_
 - **Source:** Copernicus Land Monitoring Service, High Resolution Vegetation Phenology and Productivity - Total
   Productivity (https://land.copernicus.eu/en/products/vegetation/high-resolution-total-productivity).
 - **The tiles are not redistributed here (about 200 MB each).**
-  [`Metrics_scripts\Download_TPROD.py`](Metrics_scripts/Download_TPROD.py) downloads the raw, unmodified tiles from
+  [`Metrics_scripts\Download_TPROD.py`](NIP_top_down_demo/Metrics_scripts/Download_TPROD.py) downloads the raw, unmodified tiles from
   Copernicus (via WEkEO) to `Demo_input_data\TPROD` by default.
 - **Licence:** Copernicus Land Monitoring Service data are free and open, including commercial use, provided the
   source is acknowledged. Suggested acknowledgement: *"Generated using E.U. Copernicus
