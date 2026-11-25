@@ -43,3 +43,5 @@ VITO may consider granting additional permissions on a case-by-case basis. Any a
 This licence does not override any third-party rights, licences or data-use restrictions applicable to underlying datasets or other incorporated materials.
 
 Users are responsible for checking and complying with any additional conditions that may apply to third-party materials.
+
+For use of third-party resources references or included in this repository, please refer to the [DATA_REFERENCES.md](DATA_REFERENCES.md) and contact the original rights holders for permissions if needed.

@@ -1,3 +1,13 @@
+# Author: Alexandra Evans <alexandra.evans@vito.be>
+# Copyright © 2026 VITO. All rights reserved.
+#
+# SPDX-FileCopyrightText: 2026 VITO
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+#
+# Licensed under the PolyForm Noncommercial License 1.0.0.
+# See LICENSE-SCRIPTS.md in the repository root for the licence terms.
+# https://polyformproject.org/licenses/noncommercial/1.0.0
+
 """User settings for all metrics and download scripts - check the paths and options below, then run the modules in
 Metrics_scripts as described in the repository's README.md."""
 from pathlib import Path
@@ -39,7 +49,7 @@ lut_name_column = "EUNIS2021plus_Name"
 lut_level_column = "EUNIS2021plus_Level"
 
 # QGIS style file (.qml, paletted raster) with the class colours, used for the jpg maps (set to None to skip the jpgs)
-legend_qml_path = inputs / "EUNIS_map_legend_lvl3_demo.qml"
+legend_qml_path = inputs / "EUNIS2021plus_legend_lvl3_subset.qml"
 
 ### Outputs - every script writes to its own subfolder of the outputs folder
 output_dir = base_dir / "outputs"

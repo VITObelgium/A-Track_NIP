@@ -1,4 +1,4 @@
-# IMPORTANT - please read before using these scripts
+# Demonstration limitations and caveats
 
 ## For demonstration purposes only
 
