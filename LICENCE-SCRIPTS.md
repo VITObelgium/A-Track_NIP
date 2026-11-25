@@ -1,4 +1,4 @@
-# Licence for Software and Scripts
+# Licence for Scripts
 
 Required Notice: Copyright © 2026 VITO.
 
@@ -6,9 +6,7 @@ Required Notice: Copyright © 2026 VITO.
 
 The following materials in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**:
 
-- Python scripts and source code
-- Associated software and code files
-- Other software-related materials, unless otherwise indicated
+- Original Python scripts developed by VITO
 
 **Licensor and rights holder:** VITO
 
@@ -35,8 +33,6 @@ The acknowledgement should be included in the output itself or in an accompanyin
 Suggested acknowledgement:
 
 "Software developed by VITO and made available under the PolyForm Noncommercial License 1.0.0."
-
-This attribution requirement is an additional condition specified by VITO and applies in addition to the requirements of the PolyForm Noncommercial License 1.0.0.
 
 ## 4. Requests for Additional Permissions
 
