@@ -7,8 +7,7 @@
 The following materials in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** licence:
 
 - GeoTIFF maps and associated map outputs
-- User guides and documentation
-- Other accompanying non-software materials, unless otherwise indicated
+- Documentation
 
 **Licensor and rights holder:** VITO
 
