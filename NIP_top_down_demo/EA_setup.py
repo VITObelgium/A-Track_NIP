@@ -1,12 +1,13 @@
 # Author: Alexandra Evans <alexandra.evans@vito.be>
-# Copyright © 2026 VITO. All rights reserved.
+# Copyright © 2026 VITO
 #
 # SPDX-FileCopyrightText: 2026 VITO
-# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# SPDX-License-Identifier: MIT
 #
-# Licensed under the PolyForm Noncommercial License 1.0.0.
-# See LICENSE-SCRIPTS.md in the repository root for the licence terms.
-# https://polyformproject.org/licenses/noncommercial/1.0.0
+# Please acknowledge the author and copyright holder in outputs produced using these scripts.
+#
+# Licensed under the MIT License.
+# See LICENCE-SCRIPTS.md in the repository root for the licence terms.
 
 """User settings for all metrics and download scripts - check the paths and options below, then run the modules in
 Metrics_scripts as described in the repository's README.md."""

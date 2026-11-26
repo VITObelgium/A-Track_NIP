@@ -1,12 +1,13 @@
 # Author: Alexandra Evans <alexandra.evans@vito.be>
-# Copyright © 2026 VITO. All rights reserved.
+# Copyright © 2026 VITO
 #
 # SPDX-FileCopyrightText: 2026 VITO
-# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# SPDX-License-Identifier: MIT
 #
-# Licensed under the PolyForm Noncommercial License 1.0.0.
-# See LICENSE-SCRIPTS.md in the repository root for the licence terms.
-# https://polyformproject.org/licenses/noncommercial/1.0.0
+# Please acknowledge the author and copyright holder in outputs produced using these scripts.
+#
+# Licensed under the MIT License.
+# See LICENCE-SCRIPTS.md in the repository root for the licence terms.
 
 """Helper functions for the A-Track demo on ecosystem accounting for business (extent, transformations, conversion,
 connectivity). Used by all Ecosystem_* scripts."""
@@ -679,13 +680,3 @@ def plot_tprod_comparison(stats, areas, codes, years, colours, output_path):
     fig.tight_layout(rect=[0, 0, 0.9, 1])
     fig.savefig(output_path, dpi=200, bbox_inches='tight', facecolor='white')
     plt.close(fig)
-
-# Author: Alexandra Evans <alexandra.evans@vito.be>
-# Copyright © 2026 VITO. All rights reserved.
-#
-# SPDX-FileCopyrightText: 2026 VITO
-# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
-#
-# Licensed under the PolyForm Noncommercial License 1.0.0.
-# See LICENSE-SCRIPTS.md in the repository root for the licence terms.
-# https://polyformproject.org/licenses/noncommercial/1.0.0
