@@ -1,49 +1,28 @@
-# Licence for Scripts
+Licence for Scripts
 
-Required Notice: Copyright © 2026 VITO.
+Original Python scripts developed by VITO.
+Attribution: all credit for the original software goes to VITO (Vlaamse Instelling voor Technologisch Onderzoek).
 
-## 1. Scope
+------------------------------------------------------------------------
 
-The following materials in this repository are licensed under the **PolyForm Noncommercial License 1.0.0**:
+MIT License
 
-- Original Python scripts developed by VITO
+Copyright (c) 2026 VITO
 
-**Licensor and rights holder:** VITO
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 2. Licence
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-**PolyForm Noncommercial License 1.0.0**
-
-[View the full licence](https://polyformproject.org/licenses/noncommercial/1.0.0)
-
-Under this licence, you may use, copy, modify and redistribute the software for permitted non-commercial purposes, subject to the terms and conditions of the licence.
-
-The licence does not permit commercial use. However, the PolyForm Noncommercial License explicitly considers use by certain organisations, including educational institutions, public research organisations and government institutions, to be permitted non-commercial use, regardless of their funding sources or funding obligations.
-
-Anyone redistributing the software, including modified versions, must ensure that recipients also receive the licence terms or a link to them, together with the applicable Required Notice lines.
-
-The full terms and conditions are set out in the official licence linked above.
-
-## 3. Attribution of Outputs
-
-Where the software, or a modified version of the software, is used to produce, generate or materially contribute to an output that is publicly distributed or published, VITO must be acknowledged as the source of the software.
-
-The acknowledgement should be included in the output itself or in an accompanying document, report, publication or other appropriate attribution statement.
-
-Suggested acknowledgement:
-
-"Software developed by VITO and made available under the PolyForm Noncommercial License 1.0.0."
-
-## 4. Requests for Additional Permissions
-
-If you wish to use the software for commercial purposes, or request permissions beyond those granted by this licence, please contact VITO.
-
-VITO may consider granting additional permissions on a case-by-case basis. Any additional permission must be agreed in writing by VITO.
-
-**Contact:** alexandra.evans@vito.be; vito@vito.be
-
-## 5. Third-Party Materials
-
-This licence does not override any third-party rights, licences or data-use restrictions applicable to underlying datasets, libraries, software or other incorporated materials.
-
-Users are responsible for checking and complying with any additional conditions that may apply to third-party materials.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
